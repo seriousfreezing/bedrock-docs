@@ -5,5 +5,4 @@ icon: house
 
 # Home
 
-Discover helpful articles to enhance your gameplay.\
-Use the sidebar to navigate through the wiki!
+Discover helpful articles to enhance your gameplay.

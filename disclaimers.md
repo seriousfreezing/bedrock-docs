@@ -40,7 +40,7 @@ This modpack draws inspiration from various projects, blending ideas, descriptio
 * [**Translations for Sodium**](https://modrinth.com/resourcepack/translations-for-sodium)
 * [**Vanilla Tweaks**](https://vanillatweaks.net/about/)
 
-#### 🌿 Forks
+## 🌿 Forks
 
 This section lists modpacks that incorporate our assets or are direct forks of Bedrock Reloaded.\
 If you've created a fork and would like to be listed here, feel free to reach out!

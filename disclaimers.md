@@ -28,22 +28,22 @@ Clarifies what is **allowed and what is not** when forking or using its assets.
 This modpack draws inspiration from various projects, blending ideas, descriptions, and assets to craft a unique and cohesive experience.\
 **Don't forget to check out their incredible work!**
 
-* [**3D Item Icons**](https://modrinth.com/resourcepack/3d-items-mintynoura)
-* [**Adrenaline**](https://modrinth.com/modpack/adrenaline)
-* [**Bedrock weather**](https://modrinth.com/resourcepack/bedrock-weather)
-* [**Environmental Water**](https://modrinth.com/resourcepack/environmental-water)
-* [**Fabulously Optimized**](https://modrinth.com/modpack/fabulously-optimized)
-* [**MCHeads**](https://mc-heads.net/)
-* [**Ore UI Expanded**](https://modrinth.com/resourcepack/ore-ui-expanded)
-* [**Simply Optimized**](https://modrinth.com/modpack/sop)
-* [**Sodium**](https://modrinth.com/mod/sodium)
-* [**Translations for Sodium**](https://modrinth.com/resourcepack/translations-for-sodium)
-* [**Vanilla Tweaks**](https://vanillatweaks.net/about/)
+* <img src="https://cdn.modrinth.com/data/gP7cr23D/d527f4a2087d5f8f6a295f210d934e1d0198b1e2.png" alt="Cow" data-size="line"> [**3D Item Icons**](https://modrinth.com/resourcepack/3d-items-mintynoura)
+* <img src="https://cdn.modrinth.com/data/BYN9yKrV/61168475f1a9ef2823aa0d248533ba42134ca62e_96.webp" alt="Cow" data-size="line"> [**Adrenaline**](https://modrinth.com/modpack/adrenaline)
+* <img src="https://cdn.modrinth.com/data/rHmRLTXm/fb4315ab8e919ec56671c6d41311ed2462cdcf24_96.webp" alt="Cow" data-size="line"> [**Bedrock weather**](https://modrinth.com/resourcepack/bedrock-weather)
+* <img src="https://cdn.modrinth.com/data/5QsxmK1S/d64a9433eefbdc2a62d5c041dbaea15a2a474bf4_96.webp" alt="Cow" data-size="line"> [**Environmental Water**](https://modrinth.com/resourcepack/environmental-water)
+* <img src="https://cdn.modrinth.com/data/1KVo5zza/9f1ded4949c2a9db5ca382d3bcc912c7245486b4_96.webp" alt="Cow" data-size="line"> [**Fabulously Optimized**](https://modrinth.com/modpack/fabulously-optimized)
+* <img src="https://mc-heads.net/avatar/c5ef334745934f398bb12eaa40dd986e/50" alt="Cow" data-size="line"> [**MCHeads**](https://mc-heads.net/)
+* <img src="https://cdn.modrinth.com/data/xvBRGlBo/52aeec503d6a5a8c9592fee0f8ad699221292d10.png" alt="Cow" data-size="line"> [**Ore UI Expanded**](https://modrinth.com/resourcepack/ore-ui-expanded)
+* <img src="https://cdn.modrinth.com/data/BYfVnHa7/7f8dc20fc0edd29fd95819a6f40938be0b9cadfa_96.webp" alt="Cow" data-size="line"> [**Simply Optimized**](https://modrinth.com/modpack/sop)
+* <img src="https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp" alt="Cow" data-size="line"> [**Sodium**](https://modrinth.com/mod/sodium)
+* <img src="https://cdn.modrinth.com/data/yfDziwn1/907581019df45903df237952ce8d10ac37134cb5_96.webp" alt="Cow" data-size="line"> [**Translations for Sodium**](https://modrinth.com/resourcepack/translations-for-sodium)
+* <img src="https://c10.patreonusercontent.com/4/patreon-media/p/campaign/5070647/84085c9886504173ab7c2339aa43b15c/eyJoIjozNjAsInciOjM2MH0%3D/2.png?token-time=1745539200&#x26;token-hash=fXl4w5hG7u8r0YnGxa9Kicl_UCsbQyoQAGKooHyAhEk%3D" alt="Cow" data-size="line"> [**Vanilla Tweaks**](https://vanillatweaks.net/about/)
 
 ## 🌿 Forks
 
 This section lists modpacks that incorporate our assets or are direct forks of Bedrock Reloaded.\
 If you've created a fork and would like to be listed here, feel free to reach out!
 
-* [Bedrock Edition: Renew](https://modrinth.com/modpack/bedrock-edition-modpack) by [Anakama](https://modrinth.com/user/Anakama)
-* [Bedrock Reloaded Extra](https://modrinth.com/modpack/bedrock-reloaded-extra) by [NoobTrieu](https://modrinth.com/user/NoobTrieu)
+* <img src="https://cdn.modrinth.com/data/1rywjt8g/fee029799e55f502fd87df30916cfe021d729470_96.webp" alt="Cow" data-size="line"> [Bedrock Edition: Renew](https://modrinth.com/modpack/bedrock-edition-modpack) by [Anakama](https://modrinth.com/user/Anakama)
+* <img src="https://cdn.modrinth.com/data/4cgYsINp/a81aaecb09a71cc6414527a917a2becb1747ff39_96.webp" alt="Cow" data-size="line"> [Bedrock Reloaded Extra](https://modrinth.com/modpack/bedrock-reloaded-extra) by [NoobTrieu](https://modrinth.com/user/NoobTrieu)

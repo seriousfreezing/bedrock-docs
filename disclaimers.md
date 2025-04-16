@@ -34,6 +34,7 @@ This modpack draws inspiration from various projects, blending ideas, descriptio
 * <img src="https://cdn.modrinth.com/data/5QsxmK1S/d64a9433eefbdc2a62d5c041dbaea15a2a474bf4_96.webp" alt="Cow" data-size="line"> [**Environmental Water**](https://modrinth.com/resourcepack/environmental-water)
 * <img src="https://cdn.modrinth.com/data/1KVo5zza/9f1ded4949c2a9db5ca382d3bcc912c7245486b4_96.webp" alt="Cow" data-size="line"> [**Fabulously Optimized**](https://modrinth.com/modpack/fabulously-optimized)
 * <img src="https://mc-heads.net/avatar/c5ef334745934f398bb12eaa40dd986e/50" alt="Cow" data-size="line"> [**MCHeads**](https://mc-heads.net/)
+* <img src="https://images.wikia.com/minecraft_gamepedia/images/b/bc/Wiki.png" alt="Cow" data-size="line"> [**Minecraft Wiki**](https://minecraft.wiki/)
 * <img src="https://cdn.modrinth.com/data/xvBRGlBo/52aeec503d6a5a8c9592fee0f8ad699221292d10.png" alt="Cow" data-size="line"> [**Ore UI Expanded**](https://modrinth.com/resourcepack/ore-ui-expanded)
 * <img src="https://cdn.modrinth.com/data/BYfVnHa7/7f8dc20fc0edd29fd95819a6f40938be0b9cadfa_96.webp" alt="Cow" data-size="line"> [**Simply Optimized**](https://modrinth.com/modpack/sop)
 * <img src="https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp" alt="Cow" data-size="line"> [**Sodium**](https://modrinth.com/mod/sodium)

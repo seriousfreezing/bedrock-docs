@@ -1,11 +1,12 @@
 ---
+description: >-
+  This page explains the Bedrock Reloaded's support policy, showing which
+  versions still receive updates or fixes. It also details the update structure,
+  version stages, and update frequency.
 icon: screwdriver-wrench
 ---
 
 # Support Policy
-
-This page explains the Bedrock Reloaded's **support policy**, showing which versions still receive updates or fixes.\
-It also details the **update structure, version stages, and update frequency.**
 
 ## 🛠️ Supported Versions
 

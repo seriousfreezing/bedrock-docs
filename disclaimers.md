@@ -1,11 +1,11 @@
 ---
+description: >-
+  This page highlights the terms of use for assets from Bedrock Reloaded.
+  Clarifies what is allowed and what is not when forking or using its assets.
 icon: triangle-exclamation
 ---
 
 # Disclaimers
-
-This page highlights the **terms of use** for assets from Bedrock Reloaded.\
-Clarifies what is **allowed and what is not** when forking or using its assets.
 
 ## 📝 Terms of Use
 

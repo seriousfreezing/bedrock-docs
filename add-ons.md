@@ -1,11 +1,12 @@
 ---
+description: >-
+  This page highlights optional additions for Bedrock Reloaded that can improve
+  your experience. If you're unsure how to add mods, check out the articles
+  below for guidance.
 icon: puzzle-piece
 ---
 
 # Add‐ons
-
-This page highlights optional additions for Bedrock Reloaded that can **improve your experience.**\
-If you're unsure how to add mods, **check out the articles below for guidance.**
 
 * <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/15a10966-3031-4c71-9c5d-0b2aa31b1af2/dfvg2h8-3bf1d4c4-8fef-4606-b6f4-d2fbf4de86f5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE1YTEwOTY2LTMwMzEtNGM3MS05YzVkLTBiMmFhMzFiMWFmMlwvZGZ2ZzJoOC0zYmYxZDRjNC04ZmVmLTQ2MDYtYjZmNC1kMmZiZjRkZTg2ZjUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jBbOAg_f1LWPV1s7zEzU-lwy1KBCCjkG5SvfOXIXaus" alt="Cow" data-size="line"> [**CurseForge Launcher**](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/247/How-to-add-and-remove-mods-from-a-CurseForge-modpack.html)
 * <img src="https://user-images.githubusercontent.com/66513643/112387891-a3063780-8cf2-11eb-8f36-63051dd9d253.png" alt="Cow" data-size="line"> [**GDLauncher**](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/327/How-to-add-and-remove-mods-on-a-GDLauncher-modpack.html)

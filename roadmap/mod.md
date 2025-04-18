@@ -1,13 +1,12 @@
 ---
 description: >-
   This page is dedicated to features of the Bedrock edition that may only be
-  possible via mods.
+  possible via mods. Unfortunately, I may not make any progress on this list, as
+  I don't know how to program mods.
 icon: hourglass-start
 ---
 
 # Mod
-
-**Unfortunately, I may not make any progress on this list, as I don't know how to program mods.**
 
 * [ ] Armor Stands: [Are affected by splash potions effect](https://bugs.mojang.com/browse/MCPE-24341) and has 20 health.
 * [ ] Arrows with effects: display more particles.

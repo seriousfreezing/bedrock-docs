@@ -1,13 +1,13 @@
 # Table of contents
 
-* [Home](README.md)
-* [Add‐ons](add-ons.md)
-* [Disclaimers](disclaimers.md)
-* [Support Policy](support-policy.md)
+* [🏠 Home](README.md)
+* [🧩 Add‐ons](add-ons.md)
+* [⚠️ Disclaimers](disclaimers.md)
+* [☎️ Support Policy](support-policy.md)
 
-## Roadmap
+## 🛣️ Roadmap
 
-* [Datapack](roadmap/datapack.md)
-* [Mod](roadmap/mod.md)
-* [Resourcepack](roadmap/resourcepack.md)
-* [Translation](roadmap/translation.md)
+* [✅ Datapack](roadmap/datapack.md)
+* [⏳ Resourcepack](roadmap/resourcepack.md)
+* [⏳ Translation](roadmap/translation.md)
+* [❌ Unreachable](roadmap/unreachable.md)

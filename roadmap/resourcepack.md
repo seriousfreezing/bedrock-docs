@@ -2,10 +2,9 @@
 description: >-
   This page is dedicated to features of the Bedrock edition that are possible to
   make using resourcepacks.
-icon: hourglass-start
 ---
 
-# Resourcepack
+# ⏳ Resourcepack
 
 * [ ] Armor: When worn, the diamond chestplate's sleeve has a distinct model.
 * [ ] Axolotl: [Can turn its head.](https://bugs.mojang.com/browse/MC-226272)

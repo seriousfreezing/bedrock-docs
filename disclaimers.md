@@ -2,21 +2,25 @@
 description: >-
   This page highlights the terms of use for assets from Bedrock Reloaded.
   Clarifies what is allowed and what is not when forking or using its assets.
-icon: triangle-exclamation
 ---
 
-# Disclaimers
+# ⚠️ Disclaimers
 
 ## 📝 Terms of Use
 
-* Do not redistribute `Bedrocking.zip` — Some assets are not of my creation.
-* Must credit the authors on your modpack page:
-  * [Mp3Rosa](https://www.instagram.com/_mp3rosa_)
-  * [SeriousFreezing](https://modrinth.com/user/SeriousFreezing)
-* Some assets of Bedrock Reloaded are protected by the [CC-NC-ND](https://www.tldrlegal.com/license/creative-commons-attribution-noncommercial-noderivs-cc-nc-nd) license.
-  * Commercial use is **prohibited**
-  * Credit Mp3Rosa
-  * Modifications are **not allowed**
+* **Do not redistribute `Bedrocking.zip` — Some assets are not of my creation.**
+*   **Must credit the authors on your modpack page:**
+
+    [Mp3Rosa](https://www.instagram.com/_mp3rosa_)
+
+    [SeriousFreezing](https://modrinth.com/user/SeriousFreezing)
+*   **Some assets of Bedrock Reloaded are protected by the** [**CC-NC-ND**](https://www.tldrlegal.com/license/creative-commons-attribution-noncommercial-noderivs-cc-nc-nd) **license.**
+
+    Commercial use is **prohibited**
+
+    Credit Mp3Rosa
+
+    Modifications are **not allowed**
 
 | 🔒 Protected Files                               |
 | ------------------------------------------------ |

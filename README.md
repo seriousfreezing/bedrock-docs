@@ -1,6 +1,5 @@
 ---
 description: Welcome to the Bedrock Reloaded Wiki!
-icon: house
 layout:
   title:
     visible: true
@@ -14,7 +13,7 @@ layout:
     visible: true
 ---
 
-# Home
+# 🏠 Home
 
 Discover helpful articles to enhance your gameplay.
 

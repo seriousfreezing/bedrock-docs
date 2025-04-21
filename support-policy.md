@@ -17,10 +17,10 @@ This section clarifies which versions are supported and which are no longer rece
 | 1.21.1             | ⏳      |
 | 1.21(.4) and older | ⚠️     |
 
-* **✅ Latest:** Actively developed and fully supported versions.
-* **⏳ Long-Term Support:** Versions that receive only bug fixes and essential updates.\
-  This applies to major Minecraft releases with strong community engagement.
-* **⚠️ Depreciated:** Historical versions that no longer receive official updates or support.
+**✅ Latest:** Actively developed and fully supported versions.\
+&#xNAN;**⏳ Long-Term Support:** Versions that receive only bug fixes and essential updates.\
+This applies to major Minecraft releases with strong community engagement.\
+&#xNAN;**⚠️ Depreciated:** Historical versions that no longer receive official updates or support.
 
 ## 🔄 Update Frequency
 

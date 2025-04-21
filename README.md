@@ -17,10 +17,10 @@ layout:
 
 ### 📘 Summary
 
-* &#x20;🛣️ [Curious about what’s next?](broken-reference)
-* &#x20;🧩 [Discover post-install features!](add-ons.md)
+* 🛣️ [Curious about what’s next?](broken-reference)
+* 🧩 [Discover post-install features!](add-on.md)
 * ❓ [Need help or found a bug?](support-policy.md)
-* ⚠️ [Want to fork the Bedrock Reloaded?](disclaimers.md)
+* ⚠️ [Want to fork the Bedrock Reloaded?](disclaimer.md)
 
 ***
 

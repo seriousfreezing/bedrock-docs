@@ -1,8 +1,8 @@
 # Table of contents
 
 * [🏠 Home](README.md)
-* [🧩 Add‐ons](add-ons.md)
-* [⚠️ Disclaimers](disclaimers.md)
+* [🧩 Add‐on](add-on.md)
+* [⚠️ Disclaimer](disclaimer.md)
 * [☎️ Support Policy](support-policy.md)
 
 ## 🛣️ Roadmap

@@ -4,11 +4,12 @@ description: >-
   Clarifies what is allowed and what is not when forking or using its assets.
 ---
 
-# ⚠️ Disclaimers
+# ⚠️ Disclaimer
 
 ## 📝 Terms of Use
 
-* **Do not redistribute `Bedrocking.zip` — Some assets are not of my creation.**
+* **Do not redistribute `Bedrocking.zip`**\
+  — Some assets are not of my creation.
 *   **Must credit the authors on your modpack page:**
 
     — [Mp3Rosa](https://www.instagram.com/_mp3rosa_)
@@ -16,18 +17,18 @@ description: >-
     — [SeriousFreezing](https://modrinth.com/user/SeriousFreezing)
 *   **Some assets of Bedrock Reloaded are protected by the** [**CC-NC-ND**](https://www.tldrlegal.com/license/creative-commons-attribution-noncommercial-noderivs-cc-nc-nd) **license.**
 
-    — Commercial use is **prohibited**
+    — Commercial use is **prohibited.**
 
-    — Credit Mp3Rosa
+    — Credit Mp3Rosa.
 
-    — Modifications are **not allowed**
+    — Modifications are **not allowed.**
 
 | 🔒 Protected Files                               |
 | ------------------------------------------------ |
 | ./config/fancymenu/assets/icons/                 |
 | ./resourcepacks/Bedrocking.zip/assets/fancymenu/ |
 
-## 🏆 Credits
+## ✨ Appreciation
 
 This modpack draws inspiration from various projects, blending ideas, descriptions, and assets to craft a unique and cohesive experience.\
 **Don't forget to check out their incredible work!**
@@ -47,7 +48,7 @@ This modpack draws inspiration from various projects, blending ideas, descriptio
 
 ## 🔀 Forks
 
-This section lists modpacks that incorporate our assets or are direct forks of Bedrock Reloaded.\
+This section lists modpacks that incorporate our assets or are forks of Bedrock Reloaded.\
 If you've created a fork and would like to be listed here, feel free to reach out!
 
 * <img src="https://cdn.modrinth.com/data/1rywjt8g/fee029799e55f502fd87df30916cfe021d729470_96.webp" alt="Cow" data-size="line"> [Bedrock Edition: Renew](https://modrinth.com/modpack/bedrock-edition-modpack) by [Anakama](https://modrinth.com/user/Anakama)

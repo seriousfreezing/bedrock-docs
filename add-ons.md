@@ -14,36 +14,27 @@ description: >-
 
 ## 🕹️ Gameplay
 
-These mods add **features that may enhance your experience.**\
-These improvements are experimental, **here be dragons!**
+These mods add features that may enhance your experience.\
+These improvements are **experimental,** **here be dragons!**
 
-* <img src="https://cdn.modrinth.com/data/c7VSNCbf/0c0392a751d57d829b366d99f95599125f0fb7f9_96.webp" alt="Cow" data-size="line"> [**Bedrockoid**](https://modrinth.com/mod/bedrockoid)\
-  Add some features not covered by other mods, but there is no support for Vanilla servers.
-* <img src="https://cdn.modrinth.com/data/U7KwGAnT/9334040759243614f81e1f1d7619f3fe2a206aee_96.webp" alt="Cow" data-size="line"> [**TouchController**](https://modrinth.com/mod/touchcontroller)\
-  Adds touchscreen support, but doesn't support Linux and is unstable.
+* <img src="https://cdn.modrinth.com/data/c7VSNCbf/0c0392a751d57d829b366d99f95599125f0fb7f9_96.webp" alt="Cow" data-size="line"> [**Bedrockoid**](https://modrinth.com/mod/bedrockoid) Add some features not covered by other mods, but there is no support for Vanilla servers.
+* <img src="https://cdn.modrinth.com/data/U7KwGAnT/9334040759243614f81e1f1d7619f3fe2a206aee_96.webp" alt="Cow" data-size="line"> [**TouchController**](https://modrinth.com/mod/touchcontroller) Adds touchscreen support, but doesn't support Linux and is unstable.
 
 ## 🚀 Performance
 
-These mods can enhance your **FPS**, but they are not essential.\
-Their **performance and compatibility may vary**, and some may require manual setup.
+These mods can enhance your FPS, but they are not essential.\
+Their performance and compatibility may vary, and **some may require manual setup.**
 
-* <img src="https://media.forgecdn.net/avatars/thumbnails/918/720/64/64/638380210681797905.png" alt="Cow" data-size="line"> [**BadOptimizations**](https://modrinth.com/mod/badoptimizations)\
-  Adds micro-optimizations that may improve performance, but results vary by machine.
-* <img src="https://cdn.modrinth.com/data/VSNURh3q/3c2ce471054466712a44c8758a03e03bb868f93b_96.webp" alt="Cow" data-size="line"> [**Concurrent Chunk Management Engine**](https://modrinth.com/mod/c2me-fabric)\
-  Improves chunk performance, but is highly unstable.
-* <img src="https://cdn.modrinth.com/data/SfMw2IZN/2db76d464a0f67cdb9e30fd99040eb096ac62016_96.webp" alt="Cow" data-size="line"> [**Nvidium**](https://modrinth.com/mod/nvidium)\
-  Adds Nvidia-only OpenGL extensions to boost performance, but there are incompatibilities with several mods.
-* <img src="https://cdn.modrinth.com/data/vSEH1ERy/5d2913ba6c0299ac60b03d0b572a78c67c04c541_96.webp" alt="Cow" data-size="line"> [**ThreadTweak**](https://modrinth.com/mod/threadtweak)\
-  Optimizes CPU scheduling, may reduce FPS in favor of stability.
-* <img src="https://cdn.modrinth.com/data/wnEe9KBa/0bb4b66e80c6cca9c37f6f1021a94670d6f820dc_96.webp" alt="Cow" data-size="line"> [**Very Many Players**](https://modrinth.com/mod/vmp-fabric)\
-  Enhances server performance with high playercounts, but is highly experimental.
+* <img src="https://media.forgecdn.net/avatars/thumbnails/918/720/64/64/638380210681797905.png" alt="Cow" data-size="line"> [**BadOptimizations**](https://modrinth.com/mod/badoptimizations) Adds micro-optimizations that may improve performance, but results vary by machine.
+* <img src="https://cdn.modrinth.com/data/VSNURh3q/3c2ce471054466712a44c8758a03e03bb868f93b_96.webp" alt="Cow" data-size="line"> [**Concurrent Chunk Management Engine**](https://modrinth.com/mod/c2me-fabric) Improves chunk performance, but is highly unstable.
+* <img src="https://cdn.modrinth.com/data/SfMw2IZN/2db76d464a0f67cdb9e30fd99040eb096ac62016_96.webp" alt="Cow" data-size="line"> [**Nvidium**](https://modrinth.com/mod/nvidium) Adds Nvidia-only OpenGL extensions to boost performance, but there are incompatibilities with several mods.
+* <img src="https://cdn.modrinth.com/data/vSEH1ERy/5d2913ba6c0299ac60b03d0b572a78c67c04c541_96.webp" alt="Cow" data-size="line"> [**ThreadTweak**](https://modrinth.com/mod/threadtweak) Optimizes CPU scheduling, may reduce FPS in favor of stability.
+* <img src="https://cdn.modrinth.com/data/wnEe9KBa/0bb4b66e80c6cca9c37f6f1021a94670d6f820dc_96.webp" alt="Cow" data-size="line"> [**Very Many Players**](https://modrinth.com/mod/vmp-fabric) Enhances server performance with high playercounts, but is highly experimental.
 
 ## ✨ Visual
 
 These mods provide **visual improvements** that don’t significantly affect gameplay.\
 But are worth considering for those seeking a **more refined experience.**
 
-* <img src="https://cdn.modrinth.com/data/ku1JKosh/9d808a3ce8f8fe6790a00d51715bed90d35c1ff7_96.webp" alt="Cow" data-size="line"> [**Mica**](https://modrinth.com/mod/mica)\
-  Allows customization of the titlebar, but Windows 11 only.
-* <img src="https://cdn.modrinth.com/data/QTBR20BE/f555cb46e252bfdd88c68329288f2daa66082286.png" alt="Cow" data-size="line"> [**Weed Eater**](https://modrinth.com/resourcepack/weed-eater) (Resource Pack)\
-  Brings Bedrock's PBR textures, but requires manual installation.
+* <img src="https://cdn.modrinth.com/data/ku1JKosh/9d808a3ce8f8fe6790a00d51715bed90d35c1ff7_96.webp" alt="Cow" data-size="line"> [**Mica**](https://modrinth.com/mod/mica) Allows customization of the titlebar, but Windows 11 only.
+* <img src="https://cdn.modrinth.com/data/QTBR20BE/f555cb46e252bfdd88c68329288f2daa66082286.png" alt="Cow" data-size="line"> [**Weed Eater**](https://modrinth.com/resourcepack/weed-eater) (Resource Pack) Brings Bedrock's PBR textures, but requires manual installation.

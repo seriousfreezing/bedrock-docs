@@ -11,16 +11,16 @@ description: >-
 * **Do not redistribute `Bedrocking.zip` — Some assets are not of my creation.**
 *   **Must credit the authors on your modpack page:**
 
-    [Mp3Rosa](https://www.instagram.com/_mp3rosa_)
+    — [Mp3Rosa](https://www.instagram.com/_mp3rosa_)
 
-    [SeriousFreezing](https://modrinth.com/user/SeriousFreezing)
+    — [SeriousFreezing](https://modrinth.com/user/SeriousFreezing)
 *   **Some assets of Bedrock Reloaded are protected by the** [**CC-NC-ND**](https://www.tldrlegal.com/license/creative-commons-attribution-noncommercial-noderivs-cc-nc-nd) **license.**
 
-    Commercial use is **prohibited**
+    — Commercial use is **prohibited**
 
-    Credit Mp3Rosa
+    — Credit Mp3Rosa
 
-    Modifications are **not allowed**
+    — Modifications are **not allowed**
 
 | 🔒 Protected Files                               |
 | ------------------------------------------------ |
@@ -45,7 +45,7 @@ This modpack draws inspiration from various projects, blending ideas, descriptio
 * <img src="https://cdn.modrinth.com/data/yfDziwn1/907581019df45903df237952ce8d10ac37134cb5_96.webp" alt="Cow" data-size="line"> [**Translations for Sodium**](https://modrinth.com/resourcepack/translations-for-sodium)
 * <img src="https://c10.patreonusercontent.com/4/patreon-media/p/campaign/5070647/84085c9886504173ab7c2339aa43b15c/eyJoIjozNjAsInciOjM2MH0%3D/2.png?token-time=1745539200&#x26;token-hash=fXl4w5hG7u8r0YnGxa9Kicl_UCsbQyoQAGKooHyAhEk%3D" alt="Cow" data-size="line"> [**Vanilla Tweaks**](https://vanillatweaks.net/about/)
 
-## 🌿 Forks
+## 🔀 Forks
 
 This section lists modpacks that incorporate our assets or are direct forks of Bedrock Reloaded.\
 If you've created a fork and would like to be listed here, feel free to reach out!

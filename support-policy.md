@@ -5,7 +5,16 @@ description: >-
   version stages, and update frequency.
 ---
 
-# ☎️ Support Policy
+# 📝 Support Policy
+
+## ☎️ Contact
+
+**Having issues with Bedrock Reloaded or got suggestions?**\
+Here are the available channels where you can report bugs, share ideas, or get in touch!
+
+* [Discord](https://discord.gg/XGGtydHrSb)
+* [Email](mailto:falecomsirio@proton.me)
+* [Github](https://github.com/seriousfreezing/BedrockReloaded/issues)
 
 ## 🛠️ Supported Versions
 
@@ -24,7 +33,7 @@ This applies to major Minecraft releases with strong community engagement.\
 
 ## 🔄 Update Frequency
 
-The modpack receives updates once a month.
+The Bedrock Reloaded receives updates once a month.
 
 ## ⚙️ Update Structure
 

@@ -17,7 +17,7 @@ layout:
 
 ### 📘 Summary
 
-* 🛣️ [Curious about what’s next?](broken-reference)
+* 🛣️ [Curious about what’s next?](roadmap/resourcepack.md)
 * 🧩 [Discover post-install features!](add-on.md)
 * ❓ [Need help or found a bug?](support-policy.md)
 * ⚠️ [Want to fork the Bedrock Reloaded?](disclaimer.md)

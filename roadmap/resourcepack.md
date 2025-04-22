@@ -10,7 +10,7 @@ description: >-
 * [ ] Axolotl: [Can turn its head.](https://bugs.mojang.com/browse/MC-226272)
 * [ ] Barrel: The inventory model is on the side.
 * [ ] Blackstone and Sandstone: [Have the wrong texture top and bottom.](https://bugs.mojang.com/browse/MCPE-86903)
-* [ ] Breaking block: The sound has a higher pitch and [the texture of breaking blocks is darker.](https://bugs.mojang.com/browse/MCPE-46176)
+* [ ] Breaking Block: The sound has a higher pitch and [the texture of breaking blocks is darker.](https://bugs.mojang.com/browse/MCPE-46176)
 * [ ] Button: Have 3D models in the inventory.
 * [ ] Chest: Classic inventory model.
   * The closest I've succeeded in getting it to work is with the resource pack called `Blocky Chests`.
@@ -34,7 +34,7 @@ description: >-
 * [ ] Scaffolding: Has a different 3D model (in the inventory too) and has no lower face when it is placed afloat.
 * [ ] Seagrass: The block in the inventory looks different.
 * [ ] Short Grass: Varies in height.
-* [ ] Some blocks and items: Have different names from the Java edition. **\[Needs Testing]**
+* [ ] Some Blocks and Items: Have different names from the Java edition. **\[Needs Testing]**
 * [ ] Strider: [Can move their heads up and down when being ridden by mobs.](https://bugs.mojang.com/browse/MCPE-99086)
 * [ ] Tropical Fish: Has different names.
 * [ ] Water: Still water displays a still water texture at the sides of glass blocks (instead of just a solid color) and [underwater brightness are much brighter.](https://bugs.mojang.com/browse/MCPE-67060)

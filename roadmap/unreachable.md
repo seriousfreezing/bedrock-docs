@@ -1,13 +1,13 @@
 ---
 description: >-
-  This page covers Bedrock Edition features that cannot be replicated, and it's
-  unclear if mods could do it.
+  This page is dedicated to features of the Bedrock edition that cannot be
+  replicated, and it's unclear if mods could do it.
 ---
 
 # ❌ Unreachable
 
 * [ ] Armor Stand: [Are affected by splash potions effect](https://bugs.mojang.com/browse/MCPE-24341) and has 20 health.
-* [ ] Arrow with Effect: display more particles.
+* [ ] Arrow with Effect: Display more particles.
 * [ ] Banner and Loom: Are listed in a different order and preview all banner designs without a banner and dye in the input slots.
 * [ ] Bell: Can be rung by any projectile and still come back, they are rung during raids.
 * [ ] Blast Furnace, Brewing Stand, Cauldron, Dispenser, Dropper, Enchantment Table, Furnace, Hopper, Smoker: Are droppable if broken by hand.

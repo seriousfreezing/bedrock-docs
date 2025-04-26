@@ -3,7 +3,7 @@
 * [🏠 Home](README.md)
 * [🧩 Add‐on](add-on.md)
 * [⚠️ Disclaimer](disclaimer.md)
-* [📝 Support Policy](support-policy.md)
+* [📬 Support](support.md)
 
 ## 🛣️ Roadmap
 

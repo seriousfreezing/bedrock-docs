@@ -5,9 +5,9 @@ description: >-
   version stages, and update frequency.
 ---
 
-# 📝 Support Policy
+# 📬 Support
 
-## ☎️ Contact
+## ✉️ Contact
 
 **Having issues with Bedrock Reloaded or got suggestions?**\
 Here are the available channels where you can report bugs, share ideas, or get in touch!

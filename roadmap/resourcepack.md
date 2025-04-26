@@ -12,8 +12,9 @@ description: >-
 * [ ] Blackstone and Sandstone: [Have the wrong texture top and bottom.](https://bugs.mojang.com/browse/MCPE-86903)
 * [ ] Breaking Block: The sound has a higher pitch and [the texture of breaking blocks is darker.](https://bugs.mojang.com/browse/MCPE-46176)
 * [ ] Button: Have 3D models in the inventory.
-* [ ] Chest: Classic inventory model.
-  * The closest I've succeeded in getting it to work is with the resource pack called `Blocky Chests`.
+*   [ ] Chest: Classic inventory model.
+
+    — The closest I've succeeded in getting it to work is with the resource pack called `Blocky Chests`.
 * [ ] Cloud and Sky: At sunrise and sunset turn pink.
 * [ ] Conduit: Is bigger.
 * [ ] Coral Fan: [Has a different model.](https://bugs.mojang.com/browse/MCPE-31866)
@@ -34,8 +35,12 @@ description: >-
 * [ ] Scaffolding: Has a different 3D model (in the inventory too) and has no lower face when it is placed afloat.
 * [ ] Seagrass: The block in the inventory looks different.
 * [ ] Short Grass: Varies in height.
-* [ ] Some Blocks and Items: Have different names from the Java edition. **\[Needs Testing]**
-* [ ] Strider: [Can move their heads up and down when being ridden by mobs.](https://bugs.mojang.com/browse/MCPE-99086)
+* [ ] Some Blocks and Items: Have different names from the Java edition. - **Needs Testing**
+* [ ] Strider: \
+  — [Can move their heads up.](https://bugs.mojang.com/browse/MCPE-99086)\
+  — [Down when being ridden by mobs.](https://bugs.mojang.com/browse/MCPE-99086)
 * [ ] Tropical Fish: Has different names.
-* [ ] Water: Still water displays a still water texture at the sides of glass blocks (instead of just a solid color) and [underwater brightness are much brighter.](https://bugs.mojang.com/browse/MCPE-67060)
+* [ ] Water:\
+  — Still water displays a still water texture at the sides of glass blocks.\
+  — [Underwater brightness are much brighter.](https://bugs.mojang.com/browse/MCPE-67060)
 * [ ] Witch: [Held potion and hat model pieces are offset.](https://minecraft.wiki/images/thumb/Witch_drinking.png/50px-Witch_drinking.png?abbee)

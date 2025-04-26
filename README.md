@@ -1,5 +1,5 @@
 ---
-description: Discover helpful articles to enhance your Bedrock Reloaded.
+description: Discover new ways to experience Bedrock Reloaded.
 layout:
   title:
     visible: true
@@ -19,12 +19,12 @@ layout:
 
 * 🛣️ [Curious about what’s next?](roadmap/resourcepack.md)
 * 🧩 [Discover post-install features!](add-on.md)
-* ❓ [Need help or found a bug?](support-policy.md)
+* ❓ [Need help or found a bug?](support.md)
 * ⚠️ [Want to fork the Bedrock Reloaded?](disclaimer.md)
 
 ***
 
 {% hint style="info" %}
-Copyright © 2025 SeriousFreezing. [BSPL.](https://kernel32.xyz/licenses/bspl/v1/)\
+Copyright © 2025 SeriousFreezing. [GPL 3](https://www.gnu.org/licenses/gpl-3.0.html#license-text).\
 Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
 {% endhint %}

@@ -7,18 +7,20 @@ description: >-
 # ✅ Datapack
 
 * [x] Buried Treasure: Can generate in Stone Shore at high altitude.
-* [x] Dirt Path: [Drop itself when broken using Silk Touch.](https://bugs.mojang.com/browse/MCPE-10482)
-* [x] Fern: Using bone meal on a grass block can produce ferns.
-* [x] Huge Mushroom: Generate naturally in Swamps.
-* [x] Lily Pad: [Are considered treasure loot in fishing instead of junk loot as in Java.](https://bugs.mojang.com/browse/MCPE-127736)
-*   [x] Mob: [Spawned from raids have different loot drops.](https://minecraft.wiki/w/Raid#Loot)
-
-    — Currently, the Java edition does not have a difficulty function in loot tables.
+* [x] Dirt Path: [Drops itself when broken using Silk Touch.](https://bugs.mojang.com/browse/MCPE-10482)
+* [x] Fern: Using Bone Meal on a Grass block can grow Ferns.
+* [x] Huge Mushroom: Spawns naturally in Swamps.
+* [x] Lily Pad: [Considered treasure loot when fishing.](https://bugs.mojang.com/browse/MCPE/issues/MCPE-127736)
 *   [x] Panda:
 
-    — Drop 0-2 bamboo upon death.
+    — Drops 0-2 Bamboo upon death.
 
-    — Have a higher spawn rate in Bamboo Jungles.
-* [x] Pillager: [Drop 0-2 arrows upon death.](https://bugs.mojang.com/browse/MC-139797)
-* [x] Shulker: Drop 0-4 shells when killed with Looting III (increase of 1 shulker shell per level).
-* [x] Village and Pillager Outpost: Can generate in Sunflower Plains and Snowy Taiga.
+    — Have a higher spawn rate in Bamboo Jungle.
+*   [x] Pillager:
+
+    — [Drops 0-2 arrows upon death.](https://bugs.mojang.com/browse/MC-139797)\
+    — [Spawned from raids have different drops.](https://minecraft.wiki/w/Raid#Loot)
+
+    * Currently, the Java edition does not have a difficulty function in loot tables.
+* [x] Shulker: Drops 0-4 shells when killed with Looting 3 (increase of 1 Shulker Shell per level).
+* [x] Village and Pillager Outpost: Can generate in Snowy Taiga and Sunflower Plains.

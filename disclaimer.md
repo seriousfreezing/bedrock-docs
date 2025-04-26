@@ -1,7 +1,5 @@
 ---
-description: >-
-  This page highlights the terms of use for assets from Bedrock Reloaded.
-  Clarifies what is allowed and what is not when forking or using its assets.
+description: Clarifies what is allowed and what is not when forking or using its assets.
 ---
 
 # ⚠️ Disclaimer
@@ -31,7 +29,7 @@ description: >-
 ## ✨ Appreciation
 
 This modpack draws inspiration from various projects, blending ideas, descriptions, and assets to craft a unique and cohesive experience.\
-**Don't forget to check out their incredible work!**
+**Don't forget to check out their incredible work.**
 
 * <img src="https://cdn.modrinth.com/data/gP7cr23D/d527f4a2087d5f8f6a295f210d934e1d0198b1e2.png" alt="Cow" data-size="line"> [**3D Item Icons**](https://modrinth.com/resourcepack/3d-items-mintynoura)
 * <img src="https://cdn.modrinth.com/data/BYN9yKrV/61168475f1a9ef2823aa0d248533ba42134ca62e_96.webp" alt="Cow" data-size="line"> [**Adrenaline**](https://modrinth.com/modpack/adrenaline)
@@ -44,12 +42,12 @@ This modpack draws inspiration from various projects, blending ideas, descriptio
 * <img src="https://cdn.modrinth.com/data/BYfVnHa7/7f8dc20fc0edd29fd95819a6f40938be0b9cadfa_96.webp" alt="Cow" data-size="line"> [**Simply Optimized**](https://modrinth.com/modpack/sop)
 * <img src="https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp" alt="Cow" data-size="line"> [**Sodium**](https://modrinth.com/mod/sodium)
 * <img src="https://cdn.modrinth.com/data/yfDziwn1/907581019df45903df237952ce8d10ac37134cb5_96.webp" alt="Cow" data-size="line"> [**Translations for Sodium**](https://modrinth.com/resourcepack/translations-for-sodium)
-* <img src="https://c10.patreonusercontent.com/4/patreon-media/p/campaign/5070647/84085c9886504173ab7c2339aa43b15c/eyJoIjozNjAsInciOjM2MH0%3D/2.png?token-time=1745539200&#x26;token-hash=fXl4w5hG7u8r0YnGxa9Kicl_UCsbQyoQAGKooHyAhEk%3D" alt="Cow" data-size="line"> [**Vanilla Tweaks**](https://vanillatweaks.net/about/)
+* <img src=".gitbook/assets/vanillatweaks_twitter.png" alt="Cow" data-size="line"> [**Vanilla Tweaks**](https://vanillatweaks.net/about/)
 
 ## 🔀 Forks
 
 This section lists modpacks that incorporate our assets or are forks of Bedrock Reloaded.\
-If you've created a fork and would like to be listed here, feel free to reach out!
+If you've created a fork and would like to be listed here, feel free to reach out.
 
 * <img src="https://cdn.modrinth.com/data/1rywjt8g/fee029799e55f502fd87df30916cfe021d729470_96.webp" alt="Cow" data-size="line"> [Bedrock Edition: Renew](https://modrinth.com/modpack/bedrock-edition-modpack) by [Anakama](https://modrinth.com/user/Anakama)
 * <img src="https://cdn.modrinth.com/data/4cgYsINp/a81aaecb09a71cc6414527a917a2becb1747ff39_96.webp" alt="Cow" data-size="line"> [Bedrock Reloaded Extra](https://modrinth.com/modpack/bedrock-reloaded-extra) by [NoobTrieu](https://modrinth.com/user/NoobTrieu)

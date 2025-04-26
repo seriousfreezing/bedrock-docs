@@ -9,8 +9,7 @@ description: >-
 
 ## ✉️ Contact
 
-**Having issues with Bedrock Reloaded or got suggestions?**\
-Here are the available channels where you can report bugs, share ideas, or get in touch!
+Here are the available channels where you can **report bugs, share ideas, or get in touch.**
 
 * [Discord](https://discord.gg/XGGtydHrSb)
 * [Email](mailto:falecomsirio@proton.me)

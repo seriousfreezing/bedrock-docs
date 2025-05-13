@@ -1,7 +1,5 @@
 ---
-description: >-
-  This page is dedicated to features of the Bedrock edition that cannot be
-  replicated, and it's unclear if mods could do it.
+description: Features that cannot be replicated, it can probably be done with mods.
 ---
 
 # ❌ Unreachable
@@ -102,7 +100,7 @@ description: >-
 * [ ] Witch: Attack iron golems before they are hit even if not in a raid or patrol.
 * [ ] Zombie Spawner: [Can spawn zombie villagers.](https://bugs.mojang.com/browse/MCPE-91436)
 
-### Maybe
+## Maybe
 
 * [ ] Cave: In the Nether do not fill up with lava when low down.
 * [ ] Coral Reef: Generate with Dead Coral blocks and with a different structure.

@@ -17,7 +17,7 @@ layout:
 
 ### 📘 Summary
 
-* 🛣️ [Curious about what’s next?](roadmap/resourcepack.md)
+* 🛣️ [Curious about what’s next?](roadmap/resource-pack.md)
 * 🧩 [Discover post-install features.](add-on.md)
 * ❓ [Need help or found a bug?](support.md)
 * ⚠️ [Want to fork the Bedrock Reloaded?](disclaimer.md)
@@ -25,6 +25,6 @@ layout:
 ***
 
 {% hint style="info" %}
-Copyright © 2025 SeriousFreezing. [GPL-3](https://www.gnu.org/licenses/gpl-3.0.html#license-text).\
+Copyright © 2025 SeriousFreezing. [GPL-3.](https://www.gnu.org/licenses/gpl-3.0.html#license-text)\
 Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
 {% endhint %}

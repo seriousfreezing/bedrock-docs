@@ -1,10 +1,8 @@
 ---
-description: >-
-  This page is dedicated to features of the Bedrock edition that are possible to
-  make using datapacks.
+description: Features that are possible to make using Data Pack.
 ---
 
-# ✅ Datapack
+# ✅ Data Pack
 
 * [x] Buried Treasure: Can generate in Stone Shore at high altitude.
 * [x] Dirt Path: [Drops itself when broken using Silk Touch.](https://bugs.mojang.com/browse/MCPE-10482)

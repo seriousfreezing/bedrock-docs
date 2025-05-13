@@ -1,16 +1,14 @@
 ---
-description: >-
-  This page is dedicated to features of the Bedrock edition that are possible to
-  make using resourcepacks.
+description: Features that are possible to make using Resource Pack.
 ---
 
-# ⏳ Resourcepack
+# ⏳ Resource Pack
 
 * [ ] Armor: When worn, the diamond chestplate's sleeve has a distinct model.
 * [ ] Axolotl: [Can turn its head.](https://bugs.mojang.com/browse/MC-226272)
 * [ ] Barrel: The inventory model is on the side.
 * [ ] Blackstone and Sandstone: [Have the wrong texture top and bottom.](https://bugs.mojang.com/browse/MCPE-86903)
-* [ ] Breaking Block: The sound has a higher pitch and [the texture of breaking blocks is darker.](https://bugs.mojang.com/browse/MCPE-46176)
+* [ ] Block: The sound has a higher pitch and [the texture of breaking blocks is darker.](https://bugs.mojang.com/browse/MCPE-46176)
 * [ ] Button: Have 3D models in the inventory.
 *   [ ] Chest: Classic inventory model.
 
@@ -28,7 +26,7 @@ description: >-
 * [ ] Lily Pad: Are lighter in the inventory.
 * [ ] Magma Cube: [Has a glowing core.](https://minecraft.wiki/images/Magma_Cube_\(inner\)_Revison_2_BE.png?3ceee)
 * [ ] Minecart with Command Block: [Does not have its color changed by the command block mode.](https://bugs.mojang.com/browse/MCPE-42990)
-* [ ] Pillager: It has a flipped texture on the shoulder.
+* [x] Pillager: It has a flipped texture on the shoulder.
 * [ ] Player: [Hand in first person is positioned lower](https://bugs.mojang.com/browse/MCPE-47877) and [turns red when taking damage.](https://bugs.mojang.com/browse/MC-164874)
 * [ ] Pointed Dripstone: Jumping on a stalagmite makes the falling sound and particles.
 * [ ] Rain and Snow: Are slightly inclined and vary in size.

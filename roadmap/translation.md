@@ -1,16 +1,13 @@
 ---
-description: >-
-  This page lists the mods that still need translation into Brazilian
-  Portuguese.
+description: Mods that will soon speak Brazilian Portuguese.
 ---
 
 # ⏳ Translation
 
-* [ ] Chunks Fade In - Crowdin
-* [ ] Distant Horizons - Gitlab
+* [ ] Chunks fade in
+* [ ] Distant Horizons
 * [x] Drippy Loading Screen
-* [ ] Fancy Block Particles - Renewed
-* [ ] FancyMenu - Crowdin
+* [ ] FancyMenu
 * [ ] Minepedia
 * [x] ModernFix
 * [x] Raised

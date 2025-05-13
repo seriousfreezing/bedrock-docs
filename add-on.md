@@ -38,4 +38,4 @@ Enhance visuals without affecting gameplay.\
 Perfect for a more **refined experience.**
 
 * <img src="https://cdn.modrinth.com/data/ku1JKosh/9d808a3ce8f8fe6790a00d51715bed90d35c1ff7_96.webp" alt="Cow" data-size="line"> [**Mica**](https://modrinth.com/mod/mica) Customize the titlebar, Windows 11 only.
-* <img src="https://cdn.modrinth.com/data/QTBR20BE/f555cb46e252bfdd88c68329288f2daa66082286.png" alt="Cow" data-size="line"> [**Weed Eater**](https://modrinth.com/resourcepack/weed-eater) (Resource Pack) PBR textures from Bedrock, manual installation required.
+* <img src="https://cdn.modrinth.com/data/QTBR20BE/f555cb46e252bfdd88c68329288f2daa66082286.png" alt="Cow" data-size="line"> [**Weed Eater (Resource Pack)**](https://modrinth.com/resourcepack/weed-eater) PBR textures from Bedrock, manual installation required.

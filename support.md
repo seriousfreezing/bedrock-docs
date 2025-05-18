@@ -4,23 +4,9 @@ description: What’s supported. What’s next. How updates happen.
 
 # 📬 Support
 
-<details>
-
-<summary>💬 Stay connected</summary>
-
-Join the Discord server, open an issue on GitHub, or send an email — we’re here to help.
-
-* <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" alt="CurseForge" data-size="line"> [Discord](https://discord.gg/XGGtydHrSb)
-
-- ✉ [Email](mailto:seriousfreezing.ice191@passinbox.com)
-
-* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" alt="CurseForge" data-size="line"> [Github](https://github.com/seriousfreezing/BedrockReloaded/issues)
-
-</details>
-
 ## ✉️ Contact
 
-Here are the available channels where you can **report bugs, share ideas, or get in touch.**
+Join the Discord server, open an issue on GitHub, or send an email — we’re here to help.
 
 * [Discord](https://discord.gg/XGGtydHrSb)
 * [Email](mailto:seriousfreezing.ice191@passinbox.com)

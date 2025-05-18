@@ -39,7 +39,7 @@ This modpack draws inspiration from various projects, blending ideas, descriptio
 * <img src="https://mc-heads.net/avatar/c5ef334745934f398bb12eaa40dd986e/50" alt="Cow" data-size="line"> [**MCHeads**](https://mc-heads.net/)
 * <img src="https://images.wikia.com/minecraft_gamepedia/images/b/bc/Wiki.png" alt="Cow" data-size="line"> [**Minecraft Wiki**](https://minecraft.wiki/)
 * <img src="https://cdn.modrinth.com/data/xvBRGlBo/52aeec503d6a5a8c9592fee0f8ad699221292d10.png" alt="Cow" data-size="line"> [**Ore UI Expanded**](https://modrinth.com/resourcepack/ore-ui-expanded)
-* <img src="https://cdn.modrinth.com/data/BYfVnHa7/7f8dc20fc0edd29fd95819a6f40938be0b9cadfa_96.webp" alt="Cow" data-size="line"> [**Simply Optimized**](https://modrinth.com/modpack/sop)
+* <img src="https://cdn.modrinth.com/data/BYfVnHa7/845e93223da7e8d1ed1a33364b5bdb4c316ac518.png" alt="Cow" data-size="line"> [**Simply Optimized**](https://modrinth.com/modpack/sop)
 * <img src="https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp" alt="Cow" data-size="line"> [**Sodium**](https://modrinth.com/mod/sodium)
 * <img src="https://cdn.modrinth.com/data/yfDziwn1/907581019df45903df237952ce8d10ac37134cb5_96.webp" alt="Cow" data-size="line"> [**Translations for Sodium**](https://modrinth.com/resourcepack/translations-for-sodium)
 * <img src=".gitbook/assets/vanillatweaks_twitter.png" alt="Cow" data-size="line"> [**Vanilla Tweaks**](https://vanillatweaks.net/about/)

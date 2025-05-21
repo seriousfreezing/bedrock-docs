@@ -6,14 +6,15 @@ description: Clarifies what is allowed and what is not when forking or using its
 
 ## 📝 Terms of Use
 
-* **Do not redistribute `Bedrocking.zip`**\
-  — Some assets are not of my creation.
-*   **Must credit the authors on your modpack page:**
+By forking this modpack, you agree to the following:
 
-    — [Mp3Rosa](https://www.instagram.com/_mp3rosa_)
+* Do not redistribute [**Bedrocking.zip**](#user-content-fn-1)[^1]
+*   Must credit the authors on your modpack page:
+
+    — [Mp3rosa](https://www.instagram.com/_mp3rosa_)
 
     — [SeriousFreezing](https://modrinth.com/user/SeriousFreezing)
-*   **Some assets of Bedrock Reloaded are protected by the** [**CC-NC-ND**](https://www.tldrlegal.com/license/creative-commons-attribution-noncommercial-noderivs-cc-nc-nd) **license.**
+*   Some assets of Bedrock Reloaded are protected by the [CC-NC-ND](https://www.tldrlegal.com/license/creative-commons-attribution-noncommercial-noderivs-cc-nc-nd) license.
 
     — Commercial use is **prohibited.**
 
@@ -21,15 +22,11 @@ description: Clarifies what is allowed and what is not when forking or using its
 
     — Modifications are **not allowed.**
 
-| 🔒 Protected Files                               |
-| ------------------------------------------------ |
-| ./config/fancymenu/assets/icons/                 |
-| ./resourcepacks/Bedrocking.zip/assets/fancymenu/ |
+<table><thead><tr><th width="420" align="center">🔒 Protected Files</th></tr></thead><tbody><tr><td align="center">./config/fancymenu/assets/icons/</td></tr><tr><td align="center">./resourcepacks/Bedrocking.zip/assets/fancymenu/</td></tr></tbody></table>
 
 ## ✨ Appreciation
 
-This modpack draws inspiration from various projects, blending ideas, descriptions, and assets to craft a unique and cohesive experience.\
-**Don't forget to check out their incredible work.**
+Inspired by projects worth discovering.
 
 * <img src="https://cdn.modrinth.com/data/gP7cr23D/d527f4a2087d5f8f6a295f210d934e1d0198b1e2.png" alt="Cow" data-size="line"> [**3D Item Icons**](https://modrinth.com/resourcepack/3d-items-mintynoura)
 * <img src="https://cdn.modrinth.com/data/BYN9yKrV/61168475f1a9ef2823aa0d248533ba42134ca62e_96.webp" alt="Cow" data-size="line"> [**Adrenaline**](https://modrinth.com/modpack/adrenaline)
@@ -44,10 +41,11 @@ This modpack draws inspiration from various projects, blending ideas, descriptio
 * <img src="https://cdn.modrinth.com/data/yfDziwn1/907581019df45903df237952ce8d10ac37134cb5_96.webp" alt="Cow" data-size="line"> [**Translations for Sodium**](https://modrinth.com/resourcepack/translations-for-sodium)
 * <img src=".gitbook/assets/vanillatweaks_twitter.png" alt="Cow" data-size="line"> [**Vanilla Tweaks**](https://vanillatweaks.net/about/)
 
-## 🔀 Forks
+## 🌱 Forks
 
-This section lists modpacks that incorporate our assets or are forks of Bedrock Reloaded.\
-If you've created a fork and would like to be listed here, feel free to reach out.
+Built something from Bedrock Reloaded? Let us know.
 
 * <img src="https://cdn.modrinth.com/data/1rywjt8g/fee029799e55f502fd87df30916cfe021d729470_96.webp" alt="Cow" data-size="line"> [Bedrock Edition: Renew](https://modrinth.com/modpack/bedrock-edition-modpack) by [Anakama](https://modrinth.com/user/Anakama)
 * <img src="https://cdn.modrinth.com/data/4cgYsINp/a81aaecb09a71cc6414527a917a2becb1747ff39_96.webp" alt="Cow" data-size="line"> [Bedrock Reloaded Extra](https://modrinth.com/modpack/bedrock-reloaded-extra) by [NoobTrieu](https://modrinth.com/user/NoobTrieu)
+
+[^1]: Some assets are third-party.

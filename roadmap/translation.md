@@ -7,9 +7,11 @@ description: Mods that will soon speak Brazilian Portuguese.
 * [ ] Chunks fade in
 * [ ] Distant Horizons
 * [x] Drippy Loading Screen
-* [ ] FancyMenu
-* [ ] Minepedia
+* [x] FancyMenu[^1]
+* [x] Minepedia
 * [x] ModernFix
 * [x] Raised
 * [ ] ViaFabricPlus
 * [x] World Host
+
+[^1]: Valid for interfaces only.

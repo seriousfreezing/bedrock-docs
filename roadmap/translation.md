@@ -4,7 +4,7 @@ description: Mods that will soon speak Brazilian Portuguese.
 
 # ⏳ Translation
 
-* [ ] Chunks fade in
+* [x] Chunks fade in
 * [ ] Distant Horizons
 * [x] Drippy Loading Screen
 * [x] FancyMenu[^1]

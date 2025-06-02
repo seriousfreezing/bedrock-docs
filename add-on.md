@@ -1,12 +1,12 @@
 ---
-description: >-
-  This page highlights optional additions for Bedrock Reloaded that can improve
-  your experience.
+description: Boost performance, visuals or immersion — your choice.
 ---
 
 # 🧩 Add‐on
 
-**Unsure how to add mods? Check the guides below.**
+## 🎓 Learn
+
+**New to modding?** These guides have you covered.
 
 * <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/15a10966-3031-4c71-9c5d-0b2aa31b1af2/dfvg2h8-3bf1d4c4-8fef-4606-b6f4-d2fbf4de86f5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE1YTEwOTY2LTMwMzEtNGM3MS05YzVkLTBiMmFhMzFiMWFmMlwvZGZ2ZzJoOC0zYmYxZDRjNC04ZmVmLTQ2MDYtYjZmNC1kMmZiZjRkZTg2ZjUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jBbOAg_f1LWPV1s7zEzU-lwy1KBCCjkG5SvfOXIXaus" alt="CurseForge" data-size="line"> [**CurseForge Launcher**](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/247/How-to-add-and-remove-mods-from-a-CurseForge-modpack.html)
 * <img src="https://user-images.githubusercontent.com/66513643/112387891-a3063780-8cf2-11eb-8f36-63051dd9d253.png" alt="GDLauncher" data-size="line"> [**GDLauncher**](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/327/How-to-add-and-remove-mods-on-a-GDLauncher-modpack.html)
@@ -15,8 +15,7 @@ description: >-
 
 ## 🕹️ Gameplay
 
-These mods add features that may enhance your experience.\
-**Here be dragons!**
+Mods that bring more of Bedrock — here be dragons!
 
 * <img src="https://cdn.modrinth.com/data/c7VSNCbf/0c0392a751d57d829b366d99f95599125f0fb7f9_96.webp" alt="Cow" data-size="line"> [**Bedrockoid**](https://modrinth.com/mod/bedrockoid) Add some features not covered by other mods, but there is no support for Vanilla servers.
 * <img src="https://cdn.modrinth.com/data/U7KwGAnT/9334040759243614f81e1f1d7619f3fe2a206aee_96.webp" alt="Cow" data-size="line"> [**TouchController**](https://modrinth.com/mod/touchcontroller) Adds touchscreen support, but doesn't support Linux and is unstable.

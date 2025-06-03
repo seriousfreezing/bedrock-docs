@@ -33,9 +33,8 @@ Bedrock Reloaded gets **monthly updates** — with new improvements and fixes.
 
 Every update follows a consistent structure — **so you always know what to expect.**
 
-* `1.0.0` – New features, removals, or bigger changes.
-* `0.1.0` – Minor adjustments.
-* `0.0.1` – Bug fixes and optimizations.
+* `1.0` – New features, removals, or bigger changes.
+* `0.1` – Minor adjustments, bug fixes and optimizations.
 
 [^1]: Actively developed and supported.
 

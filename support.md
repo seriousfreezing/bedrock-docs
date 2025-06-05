@@ -9,7 +9,7 @@ description: What’s supported. How updates happen.
 Found a bug? Want to share **feedback?**
 
 * 💬 [Discord](https://discord.gg/XGGtydHrSb)
-* 🪛 [Github](https://github.com/seriousfreezing/BedrockReloaded/issues)
+* 🪛 [Github](https://github.com/seriousfreezing/bedrock-reloaded/issues)
 
 ## 📘 Versions
 

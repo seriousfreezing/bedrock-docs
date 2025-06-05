@@ -11,7 +11,7 @@ description: Mods that will soon speak Brazilian Portuguese.
 * [x] Minepedia
 * [x] ModernFix
 * [x] Raised
-* [ ] ViaFabricPlus
+* [x] ViaFabricPlus
 * [x] World Host
 
 [^1]: Valid for interfaces only.

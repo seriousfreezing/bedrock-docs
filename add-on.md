@@ -25,15 +25,14 @@ A touch of extra performance — **if you need it.**
 
 ## 🧰 Utility
 
-Mods that bring more of Bedrock — **here be dragons.**
+Bedrock-inspired enhancements — **here be dragons.**
 
 * <img src="https://cdn.modrinth.com/data/c7VSNCbf/0c0392a751d57d829b366d99f95599125f0fb7f9_96.webp" alt="Cow" data-size="line"> [**Bedrockoid**](https://modrinth.com/mod/bedrockoid) Extra details. No Vanilla server support.
 * <img src="https://cdn.modrinth.com/data/U7KwGAnT/9334040759243614f81e1f1d7619f3fe2a206aee_96.webp" alt="Cow" data-size="line"> [**TouchController**](https://modrinth.com/mod/touchcontroller) Touchscreen support. Expect instability, no Linux support.
 
 ## ✨ Visual
 
-Enhance visuals without affecting gameplay.\
-Perfect for a more **refined experience.**
+Purely cosmetic — **no changes to how you play.**
 
-* <img src="https://cdn.modrinth.com/data/ku1JKosh/9d808a3ce8f8fe6790a00d51715bed90d35c1ff7_96.webp" alt="Cow" data-size="line"> [**Mica**](https://modrinth.com/mod/mica) Customize the titlebar, Windows 11 only.
-* <img src="https://cdn.modrinth.com/data/QTBR20BE/f555cb46e252bfdd88c68329288f2daa66082286.png" alt="Cow" data-size="line"> [**Weed Eater (Resource Pack)**](https://modrinth.com/resourcepack/weed-eater) PBR textures from Bedrock, manual installation required.
+* <img src="https://cdn.modrinth.com/data/ku1JKosh/9d808a3ce8f8fe6790a00d51715bed90d35c1ff7_96.webp" alt="Cow" data-size="line"> [**Mica**](https://modrinth.com/mod/mica) Customize the titlebar. Windows 11 only.
+* <img src="https://cdn.modrinth.com/data/QTBR20BE/f555cb46e252bfdd88c68329288f2daa66082286.png" alt="Cow" data-size="line"> [**Weed Eater (Resource Pack)**](https://modrinth.com/resourcepack/weed-eater) Enhanced PBR visuals. Setup is manual.

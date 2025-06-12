@@ -2,10 +2,10 @@
 description: Mods that will soon speak Brazilian Portuguese.
 ---
 
-# ⏳ Translation
+# ✅ Translation
 
 * [x] Chunks fade in
-* [ ] Distant Horizons
+* [x] Distant Horizons
 * [x] Drippy Loading Screen
 * [x] FancyMenu[^1]
 * [x] Minepedia

@@ -9,5 +9,5 @@
 
 * [✅ Data Pack](roadmap/data-pack.md)
 * [⏳ Resource Pack](roadmap/resource-pack.md)
-* [⏳ Translation](roadmap/translation.md)
+* [✅ Translation](roadmap/translation.md)
 * [❌ Unreachable](roadmap/unreachable.md)

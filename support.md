@@ -15,7 +15,7 @@ Found a bug? Want to share **feedback?**
 
 Which versions are **actively supported** — and which are no longer receiving updates.
 
-<table><thead><tr><th width="109.99993896484375">Minecraft</th><th width="150.4000244140625" align="center">Fabric</th></tr></thead><tbody><tr><td>1.21.5</td><td align="center"><a data-footnote-ref href="#user-content-fn-1">✅ Latest</a></td></tr><tr><td>1.21.1</td><td align="center"><a data-footnote-ref href="#user-content-fn-2">⏳ LTS</a></td></tr><tr><td>&#x3C;1.21.4</td><td align="center"><a data-footnote-ref href="#user-content-fn-3">⚠️ Deprecated</a></td></tr></tbody></table>
+<table><thead><tr><th width="109.99993896484375">Minecraft</th><th width="150.4000244140625" align="center">Fabric</th></tr></thead><tbody><tr><td>1.21.6</td><td align="center"><a data-footnote-ref href="#user-content-fn-1">✅ Latest</a></td></tr><tr><td>1.21.1</td><td align="center"><a data-footnote-ref href="#user-content-fn-2">⏳ LTS</a></td></tr><tr><td>&#x3C;1.21.5</td><td align="center"><a data-footnote-ref href="#user-content-fn-3">⚠️ Deprecated</a></td></tr></tbody></table>
 
 ## 🚦 Status
 

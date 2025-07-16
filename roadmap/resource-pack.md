@@ -6,23 +6,23 @@ description: Features that are possible to make using Resource Pack.
 
 * [ ] Armor: When worn, the diamond chestplate's sleeve has a distinct model.
 * [ ] Axolotl: [Can turn its head.](https://bugs.mojang.com/browse/MC-226272)
-* [ ] Barrel: The inventory model is on the side.
+* [x] Barrel: The inventory model is on the side. (There is an error in the direction of the barrel texture, but there is no way to flip it.)
 * [ ] Blackstone and Sandstone: [Have the wrong texture top and bottom.](https://bugs.mojang.com/browse/MCPE-86903)
-* [ ] Block: The sound has a higher pitch and [the texture of breaking blocks is darker.](https://bugs.mojang.com/browse/MCPE-46176)
+* [x] Block: [The texture of breaking blocks is darker.](https://bugs.mojang.com/browse/MCPE-46176)
 * [ ] Button: Have 3D models in the inventory.
 *   [ ] Chest: Classic inventory model.
 
     — The closest I've succeeded in getting it to work is with the resource pack called `Blocky Chests`.
 * [ ] Cloud and Sky: At sunrise and sunset turn pink.
 * [ ] Conduit: Is bigger.
-* [ ] Coral Fan: [Has a different model.](https://bugs.mojang.com/browse/MCPE-31866)
+* [x] Coral Fan: [Has a different model.](https://bugs.mojang.com/browse/MCPE-31866)
 * [ ] Drowned: Have a 3D outer texture layer, [have glowing eyes and mouth](https://bugs.mojang.com/browse/MC-258449) and [have proper throwing animations.](https://bugs.mojang.com/browse/MC-127433)
 * [ ] Entity: Entities on fire have an orange-yellow tint and an exclusive particle, feeding mobs makes the corresponding food particles and plays a sound and hurting a mob makes them much redder than in Java Edition.
 * [ ] Fish: Cod and Salmon wiggle tail further, have different swimming animations and Pufferfish wiggles tail, rather than fins.
 * [ ] Freeze Effect: [Is different.](https://bugs.mojang.com/browse/MCPE-119233)
 * [ ] Ghast: Has bright eyes.
 * [ ] Heavy Core: Is smaller.
-* [ ] Lighting Rod: [3D model is different in the hand.](https://bugs.mojang.com/browse/MCPE-116094)
+* [x] Lighting Rod: [3D model is different in the hand.](https://bugs.mojang.com/browse/MCPE-116094) (There is no way to change the texture in just one view.)
 * [ ] Lily Pad: Are lighter in the inventory.
 * [ ] Magma Cube: [Has a glowing core.](https://minecraft.wiki/images/Magma_Cube_\(inner\)_Revison_2_BE.png?3ceee)
 * [ ] Minecart with Command Block: [Does not have its color changed by the command block mode.](https://bugs.mojang.com/browse/MCPE-42990)

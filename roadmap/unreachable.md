@@ -85,7 +85,7 @@ description: Features that cannot be replicated, it can probably be done with mo
 * [ ] Silverfish: [Attack iron golems before they are hit.](https://bugs.mojang.com/browse/MC-83178)
 * [ ] Skeleton: [Underwater use melee attack.](https://bugs.mojang.com/browse/MCPE-167689)
 * [ ] Skeleton Horse: Can be controlled without a saddle.
-* [ ] Snow: [Is affected by gravity.](https://bugs.mojang.com/browse/MC-171789), generates and can be placed on packed ice, blue ice, and dirt path (which does not change to dirt), melts in snowless biomes, when falling on other snow, it'll add the layer count together and add an additional few and while snowing snow randomly stacks together to have random patches, opposed to being completely flat.
+* [ ] Snow: [Is affected by gravity](https://bugs.mojang.com/browse/MC-171789), generates and can be placed on packed ice, blue ice, and dirt path (which does not change to dirt), melts in snowless biomes, when falling on other snow, it'll add the layer count together and add an additional few and while snowing snow randomly stacks together to have random patches, opposed to being completely flat.
 * [ ] Strider: [Can spawn at the bottom of lava lakes.](https://bugs.mojang.com/browse/MCPE-80185)
 * [ ] Sugar Cane: [Instantly breaks if its water is removed, rather than not breaking until updated as in Java.](https://bugs.mojang.com/browse/MC-35082)
 * [ ] Totem of Undying: [Gives regeneration 2 for 40 seconds](https://bugs.mojang.com/browse/MCPE-90716)

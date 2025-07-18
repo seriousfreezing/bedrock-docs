@@ -4,12 +4,11 @@ description: Features that are possible to make using Resource Pack.
 
 # ⏳ Resource Pack
 
-* [ ] Armor: When worn, the diamond chestplate's sleeve has a distinct model.
 * [ ] Axolotl: [Can turn its head.](https://bugs.mojang.com/browse/MC-226272)
 * [x] Barrel: The inventory model is on the side. (There is an error in the direction of the barrel texture, but there is no way to flip it.)
 * [ ] Blackstone and Sandstone: [Have the wrong texture top and bottom.](https://bugs.mojang.com/browse/MCPE-86903)
 * [x] Block: [The texture of breaking blocks is darker.](https://bugs.mojang.com/browse/MCPE-46176)
-* [ ] Button: Have 3D models in the inventory.
+* [x] Button: Have 3D models in the inventory.
 *   [ ] Chest: Classic inventory model.
 
     — The closest I've succeeded in getting it to work is with the resource pack called `Blocky Chests`.
@@ -24,14 +23,11 @@ description: Features that are possible to make using Resource Pack.
 * [ ] Heavy Core: Is smaller.
 * [x] Lighting Rod: [3D model is different in the hand.](https://bugs.mojang.com/browse/MCPE-116094) (There is no way to change the texture in just one view.)
 * [ ] Lily Pad: Are lighter in the inventory.
-* [ ] Magma Cube: [Has a glowing core.](https://minecraft.wiki/images/Magma_Cube_\(inner\)_Revison_2_BE.png?3ceee)
-* [ ] Minecart with Command Block: [Does not have its color changed by the command block mode.](https://bugs.mojang.com/browse/MCPE-42990)
 * [x] Pillager: It has a flipped texture on the shoulder.
 * [ ] Player: [Hand in first person is positioned lower](https://bugs.mojang.com/browse/MCPE-47877) and [turns red when taking damage.](https://bugs.mojang.com/browse/MC-164874)
 * [ ] Pointed Dripstone: Jumping on a stalagmite makes the falling sound and particles.
 * [ ] Rain and Snow: Are slightly inclined and vary in size.
-* [ ] Scaffolding: Has a different 3D model (in the inventory too) and has no lower face when it is placed afloat.
-* [ ] Seagrass: The block in the inventory looks different.
+* [x] Seagrass: The block in the inventory looks different.
 * [ ] Short Grass: Varies in height.
 * [ ] Some Blocks and Items: Have different names from the Java edition. - **Needs Testing**
 * [ ] Strider: \

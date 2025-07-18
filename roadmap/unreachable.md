@@ -4,6 +4,7 @@ description: Features that cannot be replicated, it can probably be done with mo
 
 # ❌ Unreachable
 
+* [ ] Armor: When worn, the diamond chestplate's sleeve has a distinct model. (Maybe possible with CEM mod.)
 * [ ] Armor Stand: [Are affected by splash potions effect](https://bugs.mojang.com/browse/MCPE-24341) and has 20 health.
 * [ ] Arrow with Effect: Display more particles.
 * [ ] Banner and Loom: Are listed in a different order and preview all banner designs without a banner and dye in the input slots.
@@ -50,7 +51,9 @@ description: Features that cannot be replicated, it can probably be done with mo
 * [ ] Lightning Rod: Have a radius of 64 blocks.
 * [ ] Lily pad: [Can be placed inside entities.](https://bugs.mojang.com/browse/MC-127588)
 * [ ] Lodestone Compass: [Are separate items from regular compasses.](https://bugs.mojang.com/browse/MCPE-82356)
+* [ ] Magma Cube: [Has a glowing core.](https://minecraft.wiki/images/Magma_Cube_\(inner\)_Revison_2_BE.png?3ceee) (It is not possible via resource pack.)
 * [ ] Map: Meanwhile, the "normal" empty map (crafted using 9 papers in crafting table or 1 paper in cartography table) does not show location markers, map adding locator, cloning and expanding can also be done in anvils, show player heads instead of arrows in multiplayer and using an Overworld map in the Nether shows the corresponding location, [the coloring of grass blocks, water, etc. on the map depends on the biome they are placed on](https://feedback.minecraft.net/hc/en-us/community/posts/360023635552--Bedrock-Parity-Map-color-palette) and using an Overworld map in the End shows the world spawn point and have their differences in variantions.
+* [ ] Minecart with Command Block: [Does not have its color changed by the command block mode.](https://bugs.mojang.com/browse/MCPE-42990) (It is not possible via data pack.)
 * [ ] Moviment: If you keep jumping and holding shift, you won't run anymore and swimming seems to be a bit limited.
 * [ ] Mushroom Block: There are a few variations in the creative inventory.
 * [ ] Netherrack: Generates additionally next to the obsidian floor when a nether portal generates floating in the air, making it renewable.
@@ -80,6 +83,7 @@ description: Features that cannot be replicated, it can probably be done with mo
 * [ ] Redstone Dust: Connects to pistons, [power transmission is in a random order](https://bugs.mojang.com/browse/MC-11193), remains on the base of a piston after being extended and then retracted, [transparent blocks can pass redstone power downward](https://bugs.mojang.com/browse/MC-3311) and unconnected redstone dust is always a full cross, and cannot be toggled/interacted with to become a dot.
 * [ ] Redstone Torch: [On powered pistons always turn off](https://bugs.mojang.com/browse/MCPE-17909) and [can be turned off with a one-tick pulse.](https://bugs.mojang.com/browse/MC-109737)
 * [ ] Recipe Book: "Craftable" toggle shows all recipes the player has at least one ingredient of.
+* [ ] Scaffolding: Has a different 3D model (in the inventory too) and has no lower face when it is placed afloat.  (It is not possible via resource pack.)
 * [ ] Shield: Are activated by sneaking and are always activated when mounting mobs.
 * [ ] Sign: Placa The text goes on to the next line and you can put it in more blocks.
 * [ ] Silverfish: [Attack iron golems before they are hit.](https://bugs.mojang.com/browse/MC-83178)

@@ -9,11 +9,11 @@ description: Features that cannot be replicated, it can probably be done with mo
 * [ ] Arrow with Effect: Display more particles.
 * [ ] Banner and Loom: Are listed in a different order and preview all banner designs without a banner and dye in the input slots.
 * [ ] Bell: Can be rung by any projectile and still come back, they are rung during raids.
-* [ ] Blast Furnace, Brewing Stand, Cauldron, Dispenser, Dropper, Enchantment Table, Furnace, Hopper, Smoker: Are droppable if broken by hand.
 * [ ] Boat: Pressing \[SPACE] exits and take longer to break in by hand.
 * [ ] Book and Quill/Written Book: Have 2 pages open at once, when signed, the author can be anything the player wants, [writing JSON in the book show the JSON output, rather than the input in the book.](https://bugs.mojang.com/browse/MC-85368)
 * [ ] Bucket of Axolotl/Fish: Is named `Bucket of [<color 1> - [<color 2>]] <tropical fish name>`.
 * [ ] Button: [Do not get broken when placed on the side of a piston, when the piston is activated.](https://bugs.mojang.com/browse/MC-176481)
+* [ ] Brewing Stand: Are droppable if broken by hand.
 * [ ] Cake: [Make burp sound when eaten.](https://bugs.mojang.com/browse/MC-188359)
 * [ ] Cat: [25% chance to spawn as a kitten](https://bugs.mojang.com/browse/MC-165474), [spawns as a black cat with a 50% chance on a full moon night](https://feedback.minecraft.net/hc/en-us/community/posts/360077527051--Bedrock-Parity-50-chance-that-a-black-cat-will-spawn-on-a-full-moon-night) and [Stray Kittens follows Stray cats.](https://bugs.mojang.com/browse/MC-185516)
 * [ ] Cauldron: They are generated with random potions in the Swamp Hut and are block-entities.

@@ -5,7 +5,9 @@ description: Features that are possible to make using Resource Pack.
 # ⏳ Resource Pack
 
 * [ ] Axolotl: [Can turn its head.](https://bugs.mojang.com/browse/MC-226272)
-* [x] Barrel: The inventory model is on the side. (There is an error in the direction of the barrel texture, but there is no way to flip it.)
+*   [x] Barrel: The inventory model is on the side.&#x20;
+
+    — There is an error in the direction of the barrel texture, but there is no way to flip it.
 * [ ] Blackstone and Sandstone: [Have the wrong texture top and bottom.](https://bugs.mojang.com/browse/MCPE-86903)
 * [x] Block: [The texture of breaking blocks is darker.](https://bugs.mojang.com/browse/MCPE-46176)
 * [x] Button: Have 3D models in the inventory.
@@ -21,7 +23,9 @@ description: Features that are possible to make using Resource Pack.
 * [ ] Freeze Effect: [Is different.](https://bugs.mojang.com/browse/MCPE-119233)
 * [ ] Ghast: Has bright eyes.
 * [ ] Heavy Core: Is smaller.
-* [x] Lighting Rod: [3D model is different in the hand.](https://bugs.mojang.com/browse/MCPE-116094) (There is no way to change the texture in just one view.)
+*   [x] Lighting Rod: [3D model is different in the hand.](https://bugs.mojang.com/browse/MCPE-116094)
+
+    — There is no way to change the texture in just one view.
 * [ ] Lily Pad: Are lighter in the inventory.
 * [x] Pillager: It has a flipped texture on the shoulder.
 * [ ] Player: [Hand in first person is positioned lower](https://bugs.mojang.com/browse/MCPE-47877) and [turns red when taking damage.](https://bugs.mojang.com/browse/MC-164874)
@@ -29,7 +33,9 @@ description: Features that are possible to make using Resource Pack.
 * [ ] Rain and Snow: Are slightly inclined and vary in size.
 * [x] Seagrass: The block in the inventory looks different.
 * [ ] Short Grass: Varies in height.
-* [ ] Some Blocks and Items: Have different names from the Java edition. - **Needs Testing**
+*   [ ] Some Blocks and Items: Have different names from the Java edition.
+
+    **— Needs Testing**
 * [ ] Strider: \
   — [Can move their heads up.](https://bugs.mojang.com/browse/MCPE-99086)\
   — [Down when being ridden by mobs.](https://bugs.mojang.com/browse/MCPE-99086)

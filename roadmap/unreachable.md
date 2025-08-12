@@ -13,7 +13,7 @@ description: Features that cannot be replicated, it can probably be done with mo
 * [ ] Book and Quill/Written Book: Have 2 pages open at once, when signed, the author can be anything the player wants, [writing JSON in the book show the JSON output, rather than the input in the book.](https://bugs.mojang.com/browse/MC-85368)
 * [ ] Bucket of Axolotl/Fish: Is named `Bucket of [<color 1> - [<color 2>]] <tropical fish name>`.
 * [ ] Button: [Do not get broken when placed on the side of a piston, when the piston is activated.](https://bugs.mojang.com/browse/MC-176481)
-* [ ] Cake: [Make burp sound when eaten.](https://bugs.mojang.com/browse/MC-188359)
+* [x] Cake: [Make burp sound when eaten.](https://bugs.mojang.com/browse/MC-188359)
 * [ ] Cat: [25% chance to spawn as a kitten](https://bugs.mojang.com/browse/MC-165474), [spawns as a black cat with a 50% chance on a full moon night](https://feedback.minecraft.net/hc/en-us/community/posts/360077527051--Bedrock-Parity-50-chance-that-a-black-cat-will-spawn-on-a-full-moon-night) and [Stray Kittens follows Stray cats.](https://bugs.mojang.com/browse/MC-185516)
 * [ ] Cauldron: They are generated with random potions in the Swamp Hut and are block-entities.
 * [ ] Chat: Pressing the Enter button.
@@ -84,7 +84,7 @@ description: Features that cannot be replicated, it can probably be done with mo
 * [ ] Recipe Book: "Craftable" toggle shows all recipes the player has at least one ingredient of.
 * [ ] Scaffolding: Has a different 3D model (in the inventory too) and has no lower face when it is placed afloat.  (It is not possible via resource pack.)
 * [ ] Shield: Are activated by sneaking and are always activated when mounting mobs.
-* [ ] Sign: Placa The text goes on to the next line and you can put it in more blocks.
+* [ ] Sign: The text goes on to the next line and you can put it in more blocks.
 * [ ] Silverfish: [Attack iron golems before they are hit.](https://bugs.mojang.com/browse/MC-83178)
 * [ ] Skeleton: [Underwater use melee attack.](https://bugs.mojang.com/browse/MCPE-167689)
 * [ ] Skeleton Horse: Can be controlled without a saddle.

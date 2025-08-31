@@ -28,6 +28,7 @@ description: Features that are possible to make using Resource Pack.
 * [ ] Player: [Hand in first person is positioned lower](https://bugs.mojang.com/browse/MCPE-47877) and [turns red when taking damage.](https://bugs.mojang.com/browse/MC-164874)
 * [ ] Pointed Dripstone: Jumping on a stalagmite makes the falling sound and particles.
 * [ ] Rain and Snow: Are slightly inclined and vary in size.
+* [x] Scaffolding: Has a different 3D model (in the inventory too) and has no lower face when it is placed afloat.
 * [x] Seagrass: The block in the inventory looks different.
 * [x] Short Grass: Varies in height.
 *   [ ] Some Blocks and Items: Have different names from the Java edition.

@@ -82,7 +82,6 @@ description: Features that cannot be replicated, it can probably be done with mo
 * [ ] Redstone Dust: Connects to pistons, [power transmission is in a random order](https://bugs.mojang.com/browse/MC-11193), remains on the base of a piston after being extended and then retracted, [transparent blocks can pass redstone power downward](https://bugs.mojang.com/browse/MC-3311) and unconnected redstone dust is always a full cross, and cannot be toggled/interacted with to become a dot.
 * [ ] Redstone Torch: [On powered pistons always turn off](https://bugs.mojang.com/browse/MCPE-17909) and [can be turned off with a one-tick pulse.](https://bugs.mojang.com/browse/MC-109737)
 * [ ] Recipe Book: "Craftable" toggle shows all recipes the player has at least one ingredient of.
-* [ ] Scaffolding: Has a different 3D model (in the inventory too) and has no lower face when it is placed afloat.  (It is not possible via resource pack.)
 * [ ] Shield: Are activated by sneaking and are always activated when mounting mobs.
 * [ ] Sign: The text goes on to the next line and you can put it in more blocks.
 * [ ] Silverfish: [Attack iron golems before they are hit.](https://bugs.mojang.com/browse/MC-83178)

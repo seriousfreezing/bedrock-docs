@@ -59,7 +59,7 @@ description: Features that cannot be replicated, it can probably be done with mo
 * [ ] Nether Root: Are burnable.
 * [ ] Note Block: [Honeycomb blocks produce a flute sound (as opposed to the normal "harp" in Java).](https://bugs.mojang.com/browse/MC-212976)
 * [ ] Ominous Banner: Can be copied using loom or crafting table.
-* [ ] Option: Audio sliders have preview.
+* [x] Option: Audio sliders have preview.
 * [ ] Painting: The creative mode inventory doesn't have the other variants.
 * [ ] Panda: Breeding behavior is different; they require 8 nearby bamboo blocks to enter love mode at all, while in Java they only require 1 bamboo block and enter love mode regardless, but just don't breed and when lying on their back, lazy pandas get up and follow the player if they hold bamboo, rather than ignore the player completely.
 * [ ] Parrot: Dance on a player's shoulder when a music disc is playing, dismount when a player falls down a distance greater than 1 9⁄16 blocks and dismount when the player's shoulders become submerged in water, instead of feet in Java.

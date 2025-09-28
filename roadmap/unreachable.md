@@ -16,7 +16,7 @@ description: Features that cannot be replicated, it can probably be done with mo
 * [x] Cake: [Make burp sound when eaten.](https://bugs.mojang.com/browse/MC-188359)
 * [ ] Cat: [25% chance to spawn as a kitten](https://bugs.mojang.com/browse/MC-165474), [spawns as a black cat with a 50% chance on a full moon night](https://feedback.minecraft.net/hc/en-us/community/posts/360077527051--Bedrock-Parity-50-chance-that-a-black-cat-will-spawn-on-a-full-moon-night) and [Stray Kittens follows Stray cats.](https://bugs.mojang.com/browse/MC-185516)
 * [ ] Cauldron: They are generated with random potions in the Swamp Hut and are block-entities.
-* [ ] Chat: Pressing the Enter button.
+* [x] Chat: Pressing the Enter button.
 * [ ] Cocoa: When it breaks grown up, it will drop 2/3.
 * [ ] Compass: An anvil/crafting table can be used instead of a crafting table to zoom a map out, to clone a map, or to place a player position marker on a map, [needle has an animation when the compass changes direction by being used on a lodestone.](https://bugs.mojang.com/browse/MC-207141),
 * [ ] Conduit: Can be oriented in 16 different directions when placed, like standing signs, banners and heads. and When activated by 42 specified blocks, changes its inside texture another time.

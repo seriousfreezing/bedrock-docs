@@ -18,7 +18,9 @@ By using this modpack, you agree to the following:
 
     — Commercial use and modification are **prohibited.**
 
-<table><thead><tr><th width="420" align="center">🔒 Protected Files</th></tr></thead><tbody><tr><td align="center">./resourcepacks/Bedrocking.zip/assets/fancymenu/</td></tr></tbody></table>
+<table><thead><tr><th align="center" valign="middle">🔒 Protected Files</th></tr></thead><tbody><tr><td align="center" valign="middle">./resourcepacks/Bedrocking.zip/assets/fancymenu/</td></tr></tbody></table>
+
+<div align="center" data-full-width="false"><figure><img src="https://cdn.modrinth.com/data/cached_images/b726dffef3bff5a52af4ab17734c700754958997_0.webp" alt=""><figcaption></figcaption></figure></div>
 
 ## ✨ Appreciation
 
@@ -31,11 +33,12 @@ Inspired by projects worth discovering.
 * <img src="https://cdn.modrinth.com/data/BYfVnHa7/845e93223da7e8d1ed1a33364b5bdb4c316ac518.png" alt="Simply Optimized" data-size="line"> [**Simply Optimized**](https://modrinth.com/modpack/sop)
 * <img src="https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp" alt="Sodium" data-size="line"> [**Sodium**](https://modrinth.com/mod/sodium)
 
+<div align="center" data-full-width="false"><figure><img src="https://cdn.modrinth.com/data/cached_images/b726dffef3bff5a52af4ab17734c700754958997_0.webp" alt=""><figcaption></figcaption></figure></div>
+
 ## 🌱 Forks
 
 Built something from Bedrock Reloaded? Let us know.
 
 * <img src="https://cdn.modrinth.com/data/1rywjt8g/fee029799e55f502fd87df30916cfe021d729470_96.webp" alt="Bedrock Edition: Renew" data-size="line"> [Bedrock Edition: Renew](https://modrinth.com/modpack/bedrock-edition-modpack) by [Anakama](https://modrinth.com/user/Anakama)
-* <img src="https://cdn.modrinth.com/data/4cgYsINp/a81aaecb09a71cc6414527a917a2becb1747ff39_96.webp" alt="Bedrock Reloaded Extra" data-size="line"> [Bedrock Reloaded Extra](https://modrinth.com/modpack/bedrock-reloaded-extra) by [NoobTrieu](https://modrinth.com/user/NoobTrieu)
 
 [^1]: Some assets are third-party.

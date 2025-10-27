@@ -2,8 +2,8 @@
 
 * [🏠 Home](README.md)
 * [🧩 Add‐on](add-on.md)
-* [📥 Installation Guide](installation-guide.md)
 * [⚠️ Disclaimer](disclaimer.md)
+* [📥 Installation Guide](installation-guide.md)
 * [📬 Support](support.md)
 
 ## 🛣️ Roadmap

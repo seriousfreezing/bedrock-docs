@@ -24,22 +24,22 @@ description: Improve performance, visuals or gameplay — your choice.
 
 A touch of extra performance, **if you need it.**
 
-* <img src="https://media.forgecdn.net/avatars/thumbnails/918/720/64/64/638380210681797905.png" alt="BadOptimizations" data-size="line"> [**BadOptimizations**](https://modrinth.com/mod/badoptimizations) **-** Micro-optimizations. Results may vary.
-* <img src="https://cdn.modrinth.com/data/VSNURh3q/3c2ce471054466712a44c8758a03e03bb868f93b_96.webp" alt="C2ME" data-size="line"> [**C2ME**](https://modrinth.com/mod/c2me-fabric) **-** Optimizes the chunk. May be unstable.
-* <img src="https://cdn.modrinth.com/data/SfMw2IZN/2db76d464a0f67cdb9e30fd99040eb096ac62016_96.webp" alt="Nvidium" data-size="line"> [**Nvidium**](https://modrinth.com/mod/nvidium) **-** OpenGL extension for Nvidia GPUs. Incompatible with some mods.
-* <img src="https://cdn.modrinth.com/data/vSEH1ERy/5d2913ba6c0299ac60b03d0b572a78c67c04c541_96.webp" alt="ThreadTweak" data-size="line"> [**ThreadTweak**](https://modrinth.com/mod/threadtweak) **-** Adjusts CPU scheduling. May reduce FPS on some setups.
-* <img src="https://cdn.modrinth.com/data/wnEe9KBa/0bb4b66e80c6cca9c37f6f1021a94670d6f820dc_96.webp" alt="VMP" data-size="line"> [**VMP**](https://modrinth.com/mod/vmp-fabric) **-** Improves server performance. Experimental.
+* <img src="https://media.forgecdn.net/avatars/thumbnails/918/720/64/64/638380210681797905.png" alt="BadOptimizations" data-size="line"> [**BadOptimizations**](https://modrinth.com/mod/badoptimizations) **—** Micro-optimizations. Results may vary.
+* <img src="https://cdn.modrinth.com/data/VSNURh3q/3c2ce471054466712a44c8758a03e03bb868f93b_96.webp" alt="C2ME" data-size="line"> [**C2ME**](https://modrinth.com/mod/c2me-fabric) **—** Optimizes the chunk. May be unstable.
+* <img src="https://cdn.modrinth.com/data/SfMw2IZN/2db76d464a0f67cdb9e30fd99040eb096ac62016_96.webp" alt="Nvidium" data-size="line"> [**Nvidium**](https://modrinth.com/mod/nvidium) **—** OpenGL extension for Nvidia GPUs. Incompatible with some mods.
+* <img src="https://cdn.modrinth.com/data/vSEH1ERy/5d2913ba6c0299ac60b03d0b572a78c67c04c541_96.webp" alt="ThreadTweak" data-size="line"> [**ThreadTweak**](https://modrinth.com/mod/threadtweak) **—** Adjusts CPU scheduling. May reduce FPS on some setups.
+* <img src="https://cdn.modrinth.com/data/wnEe9KBa/0bb4b66e80c6cca9c37f6f1021a94670d6f820dc_96.webp" alt="VMP" data-size="line"> [**VMP**](https://modrinth.com/mod/vmp-fabric) **—** Improves server performance. Experimental.
 
 ## 🧰 Utility
 
 Bedrock-inspired enhancements, **here be dragons.**
 
-* <img src="https://cdn.modrinth.com/data/c7VSNCbf/0c0392a751d57d829b366d99f95599125f0fb7f9_96.webp" alt="Bedrockoid" data-size="line"> [**Bedrockoid**](https://modrinth.com/mod/bedrockoid) **-** Extra details. No Vanilla server support.
-* <img src="https://cdn.modrinth.com/data/U7KwGAnT/9334040759243614f81e1f1d7619f3fe2a206aee_96.webp" alt="TouchController" data-size="line"> [**TouchController**](https://modrinth.com/mod/touchcontroller) **-** Touchscreen support. Expect instability, no Linux support.
+* <img src="https://cdn.modrinth.com/data/c7VSNCbf/0c0392a751d57d829b366d99f95599125f0fb7f9_96.webp" alt="Bedrockoid" data-size="line"> [**Bedrockoid**](https://modrinth.com/mod/bedrockoid) **—** Extra details. No Vanilla server support.
+* <img src="https://cdn.modrinth.com/data/U7KwGAnT/9334040759243614f81e1f1d7619f3fe2a206aee_96.webp" alt="TouchController" data-size="line"> [**TouchController**](https://modrinth.com/mod/touchcontroller) **—** Touchscreen support. Expect instability, no Linux support.
 
 ## ✨ Visual
 
 Purely cosmetic, **no changes to how you play.**
 
-* <img src="https://cdn.modrinth.com/data/ku1JKosh/9d808a3ce8f8fe6790a00d51715bed90d35c1ff7_96.webp" alt="Mica" data-size="line"> [**Mica**](https://modrinth.com/mod/mica) **-** Customize the titlebar. Windows 11 only.
-* <img src="https://cdn.modrinth.com/data/QTBR20BE/f555cb46e252bfdd88c68329288f2daa66082286.png" alt="Weed Eater" data-size="line"> [**Weed Eater (Resource Pack)**](https://modrinth.com/resourcepack/weed-eater) **-** Enhanced PBR visuals. Setup is manual.
+* <img src="https://cdn.modrinth.com/data/ku1JKosh/9d808a3ce8f8fe6790a00d51715bed90d35c1ff7_96.webp" alt="Mica" data-size="line"> [**Mica**](https://modrinth.com/mod/mica) **—** Customize the titlebar. Windows 11 only.
+* <img src="https://cdn.modrinth.com/data/QTBR20BE/f555cb46e252bfdd88c68329288f2daa66082286.png" alt="Weed Eater" data-size="line"> [**Weed Eater (Resource Pack)**](https://modrinth.com/resourcepack/weed-eater) **—** Enhanced PBR visuals. Setup is manual.

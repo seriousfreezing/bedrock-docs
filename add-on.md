@@ -6,7 +6,7 @@ description: Improve performance, visuals or gameplay — your choice.
 
 <details>
 
-<summary>❔ How do I add mods?</summary>
+<summary>❔ <strong>Installing Mods</strong></summary>
 
 **New to modding?** These guides have you covered.
 

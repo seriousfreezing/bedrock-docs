@@ -1,5 +1,5 @@
 ---
-description: A quick guide to attribution, restrictions and permissions.
+description: Clear guidelines for using, crediting, and building upon the modpack.
 ---
 
 # ⚠️ Disclaimer

@@ -4,7 +4,7 @@ description: Some tips on how to install the modpack.
 
 # 📥 Installation Guide
 
-## Client-side
+## 💻 Client-side
 
 Recommended: Use **Modrinth Launcher or CurseForge App** — that way you benefit the project monetarily.
 
@@ -13,41 +13,33 @@ Recommended: Use **Modrinth Launcher or CurseForge App** — that way you benefi
 * [**ATLauncher**](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/361)
 * [**GDLauncher**](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/142)
 
-## Server-side
+## 🖥️ Server-side
 
-There are three ways to install the modpack on your server.
+Currently, only the **Packwiz** method is available. More installation methods will be **added** in the **future.**
 
-* [**Docker Compose**](https://docker-minecraft-server.readthedocs.io/en/latest/)
-* [**mcman**](https://github.com/ParadigmMC/mcman)
+1. Download the [packwiz-installer-bootstrap.jar](https://github.com/packwiz/packwiz-installer-bootstrap/releases)
+2. Move it to server's root folder.
+3. Add this command to your pre-launch command:
 
-<details>
-
-<summary><strong>Packwiz</strong></summary>
-
-Download the [packwiz-installer-bootstrap](https://github.com/packwiz/packwiz-installer-bootstrap/releases), move it to the **root folder** of your server, and add the following command to your **pre-launch command**:
-
-
-
-* Auto-update or LTS
-
-{% code overflow="wrap" fullWidth="true" %}
+{% code overflow="wrap" fullWidth="false" %}
 ```
 java -jar packwiz-installer-bootstrap.jar -g -s server https://raw.githubusercontent.com/seriousfreezing/bedrock-reloaded/refs/heads/latest/index.toml
 ```
 {% endcode %}
 
-&#x20;To switch to the latest stable version of the modpack, just change from `latest` to `lts`.
+* Switch to the Long-Term Support version by replace `latest` with `lts`.
 
+<details>
 
+<summary>Older Versions</summary>
 
-* Deprecated versions
-
-{% code overflow="wrap" fullWidth="true" %}
+{% code overflow="wrap" fullWidth="false" %}
 ```
 java -jar packwiz-installer-bootstrap.jar -g -s server https://raw.githubusercontent.com/seriousfreezing/bedrock-reloaded/refs/heads/deprecated/1.21.4/index.toml
 ```
 {% endcode %}
 
-These are older versions of the modpack that are no longer supported.
+* These versions are no longer supported.\
+  List of versions: `1.21.4/1.21.5/1.21.6/1.21.8`
 
 </details>

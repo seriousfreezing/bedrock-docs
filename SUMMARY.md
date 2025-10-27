@@ -2,6 +2,7 @@
 
 * [🏠 Home](README.md)
 * [🧩 Add‐on](add-on.md)
+* [📥 Installation Guide](installation-guide.md)
 * [⚠️ Disclaimer](disclaimer.md)
 * [📬 Support](support.md)
 

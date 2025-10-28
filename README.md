@@ -22,6 +22,7 @@ layout:
 
 * 🛣️ [Curious about what’s next?](roadmap/resource-pack.md)
 * 🧩 [Discover post-install features.](add-on.md)
+* 🤔 [Don't know how to install a modpack?](installation-guide.md)
 * ❓ [Need help or found a bug?](support.md)
 * ⚠️ [Want to fork the Bedrock Reloaded?](disclaimer.md)
 

@@ -27,18 +27,16 @@ description: Features that are possible to make using Resource Pack.
 * [x] Pillager: It has a flipped texture on the shoulder.
 * [ ] Player: [Hand in first person is positioned lower](https://bugs.mojang.com/browse/MCPE-47877) and [turns red when taking damage.](https://bugs.mojang.com/browse/MC-164874)
 * [ ] Pointed Dripstone: Jumping on a stalagmite makes the falling sound and particles.
-* [ ] Rain and Snow: Are slightly inclined and vary in size.
+* [x] Rain and Snow: Are slightly inclined and vary in size.
 * [x] Scaffolding: Has a different 3D model (in the inventory too) and has no lower face when it is placed afloat.
 * [x] Seagrass: The block in the inventory looks different.
 * [x] Short Grass: Varies in height.
-*   [ ] Some Blocks and Items: Have different names from the Java edition.
-
-    **— Needs Testing**
+* [x] Some Blocks and Items: Have different names from the Java edition.
 * [ ] Strider: \
   — [Can move their heads up.](https://bugs.mojang.com/browse/MCPE-99086)\
   — [Down when being ridden by mobs.](https://bugs.mojang.com/browse/MCPE-99086)
 * [ ] Tropical Fish: Has different names.
-* [ ] Water:\
+* [x] Water:\
   — Still water displays a still water texture at the sides of glass blocks.\
   — [Underwater brightness are much brighter.](https://bugs.mojang.com/browse/MCPE-67060)
 * [ ] Witch: [Held potion and hat model pieces are offset.](https://minecraft.wiki/images/thumb/Witch_drinking.png/50px-Witch_drinking.png?abbee)

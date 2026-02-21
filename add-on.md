@@ -21,12 +21,7 @@ description: Improve performance, visuals or gameplay — your choice.
 
 A touch of extra performance, **if you need it.**
 
-* <img src="https://media.forgecdn.net/avatars/thumbnails/918/720/64/64/638380210681797905.png" alt="BadOptimizations" data-size="line"> [**BadOptimizations**](https://modrinth.com/mod/badoptimizations) **—** Micro-optimizations. Results may vary.
 * <img src="https://cdn.modrinth.com/data/Ps1zyz6x/27133942a1a58af1bb11b087957ea4cc14414dd3_96.webp" alt="ScalableLux" data-size="line"> [**ScalableLux**](https://modrinth.com/mod/scalablelux) — [Improvements to the lighting system.](#user-content-fn-1)[^1]
-* <img src="https://cdn.modrinth.com/data/4WWQxlQP/5207e4657a1d0e929506a8c07491a42fa73b0a29_96.webp" alt="ServerCore" data-size="line"> [**ServerCore**](https://modrinth.com/mod/servercore) — [Optimizations focused on server logic.](#user-content-fn-1)[^1]
-* <img src="https://cdn.modrinth.com/data/wnEe9KBa/0bb4b66e80c6cca9c37f6f1021a94670d6f820dc_96.webp" alt="VMP" data-size="line"> [**VMP**](https://modrinth.com/mod/vmp-fabric) **—** Improves server performance. Experimental.
-
-
 
 ## 🧰 Utility
 
@@ -42,4 +37,4 @@ Purely cosmetic, **no changes to how you play.**
 * <img src="https://cdn.modrinth.com/data/ku1JKosh/9d808a3ce8f8fe6790a00d51715bed90d35c1ff7_96.webp" alt="Mica" data-size="line"> [**Mica**](https://modrinth.com/mod/mica) **—** Customize the titlebar. Windows 11 only.
 * <img src="https://cdn.modrinth.com/data/QTBR20BE/f555cb46e252bfdd88c68329288f2daa66082286.png" alt="Weed Eater" data-size="line"> [**Weed Eater (Resource Pack)**](https://modrinth.com/resourcepack/weed-eater) **—** Enhanced PBR visuals. Setup is manual.
 
-[^1]: Only useful for servers.
+[^1]: Only useful for servers. High Players. Maybe incompability.

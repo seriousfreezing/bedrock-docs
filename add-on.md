@@ -20,7 +20,7 @@ Recreates PBR lighting and material depth. **Manual setup required.**
 
 <summary>❔ <strong>Installing Add-ons</strong></summary>
 
-**Not sure how to install them?** Choose your launcher below.
+Not sure how to install them? Choose your launcher below.
 
 * <img src="https://cdn.modrinth.com/modrinth-new.png" alt="Modrinth App" data-size="line"> [**Modrinth App**](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/571/How-to-add-and-remove-mods-from-a-Modrinth-modpack.html)
 * <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/15a10966-3031-4c71-9c5d-0b2aa31b1af2/dfvg2h8-3bf1d4c4-8fef-4606-b6f4-d2fbf4de86f5.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE1YTEwOTY2LTMwMzEtNGM3MS05YzVkLTBiMmFhMzFiMWFmMlwvZGZ2ZzJoOC0zYmYxZDRjNC04ZmVmLTQ2MDYtYjZmNC1kMmZiZjRkZTg2ZjUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jBbOAg_f1LWPV1s7zEzU-lwy1KBCCjkG5SvfOXIXaus" alt="CurseForge App" data-size="line"> [**CurseForge App**](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/247/How-to-add-and-remove-mods-from-a-CurseForge-modpack.html)

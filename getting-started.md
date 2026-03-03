@@ -14,26 +14,29 @@ For the easiest setup and to support the project, we recommend **Modrinth Launch
 * <img src="https://cdn2.steamgriddb.com/icon_thumb/bb8bf48a4f86fb1a77d0d0953d87958e.png" alt="Prism Launcher" data-size="line"> [**Prism Launcher**](https://prismlauncher.org/wiki/getting-started/download-modpacks/)
 * <img src="https://user-images.githubusercontent.com/66513643/112387891-a3063780-8cf2-11eb-8f36-63051dd9d253.png" alt="GDLauncher" data-size="line"> [**GDLauncher**](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/142)
 
-## 🖥️ Server-side
+## 🌐 Server-side
 
-1. Download the [packwiz-installer-bootstrap.jar](https://github.com/packwiz/packwiz-installer-bootstrap/releases)
+Use the Packwiz guide below to get your server up and running in minutes.\
+Prefer a visual walkthrough? [**This video**](https://www.youtube.com/watch?v=-NMW0VOgU9g) can help you get started.
+
+1. Download the [**packwiz-installer-bootstrap.jar**](https://github.com/packwiz/packwiz-installer-bootstrap/releases)
 2. Move it to server's root folder.
 3. Add this command to your pre-launch command:
 
 {% code overflow="wrap" fullWidth="false" %}
-```
+```bash
 java -jar packwiz-installer-bootstrap.jar -g -s server https://raw.githubusercontent.com/seriousfreezing/bedrock-reloaded/refs/heads/latest/index.toml
 ```
 {% endcode %}
 
-* Switch to the Long-Term Support version by replace `latest` with `lts`.
+* &#x20; Switch to the Long-Term Support version by replace `latest` with `lts`.
 
 <details>
 
-<summary>Older Versions</summary>
+<summary><strong>Older Versions</strong></summary>
 
 {% code overflow="wrap" fullWidth="false" %}
-```
+```bash
 java -jar packwiz-installer-bootstrap.jar -g -s server https://raw.githubusercontent.com/seriousfreezing/bedrock-reloaded/refs/heads/deprecated/1.21.4/index.toml
 ```
 {% endcode %}

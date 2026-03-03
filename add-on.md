@@ -4,21 +4,21 @@ description: Improve visuals or gameplay — your choice.
 
 # 🧩 Add‐on
 
-<img src="https://cdn.modrinth.com/data/DVuhus8H/188cc7789388543d84951c8b6efd5c928c6dbf75_96.webp" alt="Days Played" data-size="line"> [**Days Played**](https://modrinth.com/mod/daysplayed)\
+<img src="https://cdn.modrinth.com/data/DVuhus8H/188cc7789388543d84951c8b6efd5c928c6dbf75_96.webp" alt="Days Played" data-size="line">  [**Days Played**](https://modrinth.com/mod/daysplayed)\
 Displays your total in-game days on screen.
 
-<img src="https://cdn.modrinth.com/data/Vklwtkf7/5c26c87af2b5e785556cdf3c537cdf25942b51bf_96.webp" alt="Simple Block Overlay" data-size="line"> [**Simple Block Overlay**](https://modrinth.com/mod/simple-block-overlay)\
+<img src="https://cdn.modrinth.com/data/Vklwtkf7/5c26c87af2b5e785556cdf3c537cdf25942b51bf_96.webp" alt="Simple Block Overlay" data-size="line">  [**Simple Block Overlay**](https://modrinth.com/mod/simple-block-overlay)\
 Replaces the default black outline with a subtle white highlight.
 
-<img src="https://cdn.modrinth.com/data/U7KwGAnT/9334040759243614f81e1f1d7619f3fe2a206aee_96.webp" alt="TouchController" data-size="line"> [**TouchController**](https://modrinth.com/mod/touchcontroller)\
+<img src="https://cdn.modrinth.com/data/U7KwGAnT/9334040759243614f81e1f1d7619f3fe2a206aee_96.webp" alt="TouchController" data-size="line">  [**TouchController**](https://modrinth.com/mod/touchcontroller)\
 Brings touchscreen controls. **Limited platform support.**
 
-<img src="https://cdn.modrinth.com/data/QTBR20BE/f555cb46e252bfdd88c68329288f2daa66082286.png" alt="Weed Eater" data-size="line"> [**Weed Eater (Resource Pack)**](https://modrinth.com/resourcepack/weed-eater)\
+<img src="https://cdn.modrinth.com/data/QTBR20BE/f555cb46e252bfdd88c68329288f2daa66082286.png" alt="Weed Eater" data-size="line">  [**Weed Eater (Resource Pack)**](https://modrinth.com/resourcepack/weed-eater)\
 Recreates PBR lighting and material depth. **Manual setup required.**
 
 <details>
 
-<summary>❔ <strong>Installing Add-ons</strong></summary>
+<summary><strong>❔ Installing Add-ons</strong></summary>
 
 Not sure how to install them? Choose your launcher below.
 

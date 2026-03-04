@@ -4,19 +4,54 @@ description: Legal & Usage Information
 
 # 📑 Terms of Use
 
-By using this modpack, you agree to the following:
+**By using this modpack, you agree to the following:**
 
-* Do not redistribute [**Bedrocking.zip**](#user-content-fn-1)[^1]
-*   The authors should be credited:
+#### Servers
 
-    — [**Mp3rosa**](https://www.instagram.com/_mp3rosa_)
+This modpack is designed to be compatible with most vanilla servers. Some mods may trigger anti-cheat systems or violate server rules.
 
-    — [**SeriousFreezing**](https://modrinth.com/user/SeriousFreezing)
-*   Some assets of Bedrock Reloaded are protected by the [**CC-NC-ND**](https://www.tldrlegal.com/license/creative-commons-attribution-noncommercial-noderivs-cc-nc-nd) license.
+* The modpack author and mod developers are not responsible for bans or penalties issued by third-party servers.
+* It is your responsibility to review and follow the rules of each server you connect to.
 
-    — Commercial use and modification are **prohibited.**
+#### Network Behavior
 
-<table><thead><tr><th align="center" valign="middle">🔒 Protected Files</th></tr></thead><tbody><tr><td align="center" valign="middle">./resourcepacks/Bedrocking.zip/assets/fancymenu/</td></tr></tbody></table>
+This modpack disables Mojang telemetry by default to avoid inaccurate data collection in modded environments.
+
+* Mod features such as auto-update, cosmetics for donors, and external network features are disabled to protect user privacy.
+* These features and others can be manually re-enabled by players through their configuration files.
+
+#### Chat Signing
+
+An indicator icon is included to display the chat signing status of servers.
+
+* On servers where chat signing is optional, the modpack opts out for the user by default to respect server configuration intent.
+* Players should review server moderation policies regarding chat safety features.
+
+#### No Warranty
+
+This modpack is provided “as is”, without warranties of any kind.&#x20;
+
+* No guarantees are made regarding compatibility, performance, or stability.
+* The author, contributing developers, included mod creators, and Mojang are not responsible for any damages, penalties, or consequences arising from its use.
+* All actions performed while using this modpack are the sole responsibility of the user.
+* Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
+
+#### Forking
+
+This modpack may be forked or remixed, provided that its identity, branding, and authorship are not misrepresented.
+
+* Forks may not use the name "Bedrock Reloaded" or its official logo.
+* Redistribution must clearly credit the original project and its authors:\
+  \- [**Mp3rosa**](https://www.instagram.com/_mp3rosa_)\
+  \- [**SeriousFreezing**](https://modrinth.com/user/SeriousFreezing)
+* Derivative projects must not claim or imply official affiliation with Bedrock Reloaded.
+
+#### Protected Assets
+
+Certain original assets and brand elements of Bedrock Reloaded are protected and may not be reused beyond the terms defined by this project.
+
+* Commercial redistribution or monetized distribution of Bedrock Reloaded as a standalone package is prohibited.
+* Any commercial use, redistribution, or modification of **Bedrocking.zip** and its internal contents is strictly prohibited. **Bedrocking.zip** is licensed under **CC BY-NC-ND.**
 
 <div align="center" data-full-width="false"><figure><img src="https://cdn.modrinth.com/data/cached_images/b726dffef3bff5a52af4ab17734c700754958997_0.webp" alt=""><figcaption></figcaption></figure></div>
 
@@ -37,5 +72,3 @@ Inspired by projects worth discovering.
 Built something from Bedrock Reloaded? Let us know.
 
 * <img src="https://cdn.modrinth.com/data/1rywjt8g/fee029799e55f502fd87df30916cfe021d729470_96.webp" alt="Bedrock Edition: Renew" data-size="line">  [**Bedrock Edition: Renew**](https://modrinth.com/modpack/bedrock-edition-modpack)
-
-[^1]: Some assets are third-party.

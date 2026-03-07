@@ -2,9 +2,9 @@
 description: Everything you need to get playing in minutes.
 ---
 
-# 🚀 Getting Started
+# 🚀 Installation Guide
 
-## 💻 Client-side
+### 💻 Client-side
 
 Learn how to install the modpack with your favorite launcher, and enjoy all features.\
 For the easiest setup and to support the project, we recommend **Modrinth Launcher** or **CurseForge App**.
@@ -14,7 +14,7 @@ For the easiest setup and to support the project, we recommend **Modrinth Launch
 * <img src="https://cdn2.steamgriddb.com/icon_thumb/bb8bf48a4f86fb1a77d0d0953d87958e.png" alt="Prism Launcher" data-size="line"> [**Prism Launcher**](https://prismlauncher.org/wiki/getting-started/download-modpacks/)
 * <img src="https://user-images.githubusercontent.com/66513643/112387891-a3063780-8cf2-11eb-8f36-63051dd9d253.png" alt="GDLauncher" data-size="line"> [**GDLauncher**](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/142)
 
-## 🌐 Server-side
+### 🌐 Server-side
 
 Use the Packwiz guide below to get your server up and running in minutes.\
 Prefer a visual walkthrough? [**This video**](https://www.youtube.com/watch?v=-NMW0VOgU9g) can help you get started.
@@ -29,7 +29,7 @@ java -jar packwiz-installer-bootstrap.jar -g -s server https://raw.githubusercon
 ```
 {% endcode %}
 
-* &#x20; Switch to the Long-Term Support version by replace `latest` with `lts`.
+* Switch to the Long-Term Support version by replace `latest` with `lts`.
 
 <details>
 

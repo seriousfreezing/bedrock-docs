@@ -7,7 +7,7 @@ description: Explore, learn, and get the most out of Bedrock Reloaded.
 ### 📘 Summary
 
 * 🧩 [**Discover post-install features.**](add-on.md)
-* 🤔 [**Don't know how to install a modpack?**](getting-started.md)
+* 🤔 [**Don't know how to install a modpack?**](installation-guide.md)
 * ❓ [**Need help or found a bug?**](support.md)
 * ⚠️ [**Want to fork the Bedrock Reloaded?**](terms-of-use.md)
 

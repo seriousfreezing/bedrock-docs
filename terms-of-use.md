@@ -60,7 +60,7 @@ Certain original assets and brand elements of Bedrock Reloaded are protected and
 Inspired by projects worth discovering.
 
 * <img src="https://cdn.modrinth.com/data/BYN9yKrV/98f14519960b17418d5ba5ebfdc46c85154ad87b_96.webp" alt="MCHeads" data-size="line">  [**Adrenaline**](https://modrinth.com/modpack/adrenaline)
-* <img src="https://cdn.modrinth.com/data/1KVo5zza/9f1ded4949c2a9db5ca382d3bcc912c7245486b4_96.webp" alt="Fabulously Optimized" data-size="line">  [**Fabulously Optimized**](https://modrinth.com/modpack/fabulously-optimized)
+* <img src="https://media.forgecdn.net/avatars/thumbnails/286/772/64/64/637305737753885398.png" alt="Fabulously Optimized" data-size="line">  [**Fabulously Optimized**](https://modrinth.com/modpack/fabulously-optimized)
 * <img src="https://mc-heads.net/avatar/c5ef334745934f398bb12eaa40dd986e/50" alt="MCHeads" data-size="line">  [**MCHeads**](https://mc-heads.net/)
 * <img src="https://images.wikia.com/minecraft_gamepedia/images/b/bc/Wiki.png" alt="Minecraft Wiki" data-size="line">  [**Minecraft Wiki**](https://minecraft.wiki/)
 * <img src="https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp" alt="Sodium" data-size="line">  [**Sodium**](https://modrinth.com/mod/sodium)

@@ -8,7 +8,7 @@ description: What’s supported. How updates happen.
 
 Which versions are **actively supported**, and which are no longer receiving updates.
 
-<table data-full-width="false"><thead><tr><th align="center">Minecraft</th><th align="center">Support</th></tr></thead><tbody><tr><td align="center">26.1.2</td><td align="center"><a data-footnote-ref href="#user-content-fn-1">✅ Latest</a></td></tr><tr><td align="center">1.21.1</td><td align="center"><a data-footnote-ref href="#user-content-fn-2">⏳ LTS</a></td></tr><tr><td align="center">&#x3C;1.21.11</td><td align="center"><a data-footnote-ref href="#user-content-fn-3">⚠️ Deprecated</a></td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th align="center">Minecraft</th><th align="center">Support</th></tr></thead><tbody><tr><td align="center">26.2</td><td align="center"><a data-footnote-ref href="#user-content-fn-1">✅ Latest</a></td></tr><tr><td align="center">1.21.1</td><td align="center"><a data-footnote-ref href="#user-content-fn-2">⏳ LTS</a></td></tr><tr><td align="center">&#x3C;26.1.2</td><td align="center"><a data-footnote-ref href="#user-content-fn-3">⚠️ Deprecated</a></td></tr></tbody></table>
 
 ### 🚦 Status
 

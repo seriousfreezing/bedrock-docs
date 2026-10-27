@@ -37,7 +37,7 @@ Bedrock Reloaded gets **monthly updates**, with new improvements and fixes.
 <div align="center" data-full-width="false"><figure><img src="https://cdn.modrinth.com/data/cached_images/b726dffef3bff5a52af4ab17734c700754958997_0.webp" alt="Separator"><figcaption></figcaption></figure></div>
 
 > **Contact Us**\
-> [Discord](https://discord.gg/XGGtydHrSb)\
+> [Discord](https://discord.gg/HEnTX6sTAY)\
 > [Github](https://github.com/seriousfreezing/bedrock-reloaded/issues/new/choose)
 
 [^1]: Actively developed and supported.
